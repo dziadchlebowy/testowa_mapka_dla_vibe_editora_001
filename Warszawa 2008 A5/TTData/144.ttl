@@ -1,0 +1,581 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 01.08.2026
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+PKS 12m
+287
+
+------------------------------------
+
+  Dep.: 6:6:0
+[addtrip]
+144-TP-FSO
+0
+366.000
+
+  Dep.: 6:47:0
+[addtrip]
+144-TP-SZL
+0
+407.000
+
+  Dep.: 7:26:0
+[addtrip]
+144-TP-FSO
+0
+446.000
+
+  Dep.: 8:7:0
+[addtrip]
+144-TP-SZL
+0
+487.000
+
+  Dep.: 8:46:0
+[addtrip]
+144-TP-FSO
+0
+526.000
+
+  Dep.: 9:27:0
+[addtrip]
+144-TP-SZL
+0
+567.000
+
+  Dep.: 10:6:0
+[addtrip]
+144-TP-FSO
+0
+606.000
+
+  Dep.: 10:47:0
+[addtrip]
+144-TP-SZL
+0
+647.000
+
+  Dep.: 11:26:0
+[addtrip]
+144-TP-FSO
+0
+686.000
+
+  Dep.: 12:7:0
+[addtrip]
+144-TP-SZL
+0
+727.000
+
+  Dep.: 12:46:0
+[addtrip]
+144-TP-FSO
+0
+766.000
+
+  Dep.: 13:27:0
+[addtrip]
+144-TP-SZL
+0
+807.000
+
+  Dep.: 14:6:0
+[addtrip]
+144-TP-FSO
+0
+846.000
+
+  Dep.: 14:47:0
+[addtrip]
+144-TP-SZL
+0
+887.000
+
+  Dep.: 15:26:0
+[addtrip]
+144-TP-FSO
+0
+926.000
+
+  Dep.: 16:7:0
+[addtrip]
+144-TP-SZL
+0
+967.000
+
+  Dep.: 16:46:0
+[addtrip]
+144-TP-FSO
+0
+1006.000
+
+  Dep.: 17:27:0
+[addtrip]
+144-TP-SZL
+0
+1047.000
+
+  Dep.: 18:6:0
+[addtrip]
+144-TP-FSO
+0
+1086.000
+
+  Dep.: 18:47:0
+[addtrip]
+144-TP-SZL
+0
+1127.000
+
+  Dep.: 19:39:0
+[addtrip]
+144-TP-FSO
+0
+1179.000
+
+  Dep.: 20:20:0
+[addtrip]
+144-TP-SZL
+0
+1220.000
+
+  Dep.: 21:7:0
+[addtrip]
+144-TP-FSO
+0
+1267.000
+
+  Dep.: 21:48:0
+[addtrip]
+144-TP-SZL
+0
+1308.000
+
+------------------------------------
+
+[newtour]
+2
+PKS 12m
+287
+
+------------------------------------
+
+  Dep.: 6:26:0
+[addtrip]
+144-TP-FSO
+0
+386.000
+
+  Dep.: 7:7:0
+[addtrip]
+144-TP-SZL
+0
+427.000
+
+  Dep.: 20:7:0
+[addtrip]
+144-TP-FSO
+0
+1207.000
+
+  Dep.: 20:48:0
+[addtrip]
+144-TP-SZL
+0
+1248.000
+
+  Dep.: 21:43:0
+[addtrip]
+144-TP-FSO
+0
+1303.000
+
+  Dep.: 7:46:0
+[addtrip]
+144-TP-FSO
+0
+466.000
+
+  Dep.: 8:27:0
+[addtrip]
+144-TP-SZL
+0
+507.000
+
+  Dep.: 9:6:0
+[addtrip]
+144-TP-FSO
+0
+546.000
+
+  Dep.: 9:47:0
+[addtrip]
+144-TP-SZL
+0
+587.000
+
+  Dep.: 10:26:0
+[addtrip]
+144-TP-FSO
+0
+626.000
+
+  Dep.: 11:7:0
+[addtrip]
+144-TP-SZL
+0
+667.000
+
+  Dep.: 11:46:0
+[addtrip]
+144-TP-FSO
+0
+706.000
+
+  Dep.: 12:27:0
+[addtrip]
+144-TP-SZL
+0
+747.000
+
+  Dep.: 13:6:0
+[addtrip]
+144-TP-FSO
+0
+786.000
+
+  Dep.: 13:47:0
+[addtrip]
+144-TP-SZL
+0
+827.000
+
+  Dep.: 14:26:0
+[addtrip]
+144-TP-FSO
+0
+866.000
+
+  Dep.: 15:7:0
+[addtrip]
+144-TP-SZL
+0
+907.000
+
+  Dep.: 15:46:0
+[addtrip]
+144-TP-FSO
+0
+946.000
+
+  Dep.: 16:27:0
+[addtrip]
+144-TP-SZL
+0
+987.000
+
+  Dep.: 17:6:0
+[addtrip]
+144-TP-FSO
+0
+1026.000
+
+  Dep.: 17:47:0
+[addtrip]
+144-TP-SZL
+0
+1067.000
+
+  Dep.: 18:26:0
+[addtrip]
+144-TP-FSO
+0
+1106.000
+
+  Dep.: 19:7:0
+[addtrip]
+144-TP-SZL
+0
+1147.000
+
+------------------------------------
+
+[newtour]
+3
+PKS 12m
+287
+
+------------------------------------
+
+  Dep.: 6:46:0
+[addtrip]
+144-TP-FSO
+0
+406.000
+
+  Dep.: 7:27:0
+[addtrip]
+144-TP-SZL
+0
+447.000
+
+  Dep.: 20:37:0
+[addtrip]
+144-TP-FSO
+0
+1237.000
+
+  Dep.: 21:18:0
+[addtrip]
+144-TP-SZL
+0
+1278.000
+
+  Dep.: 22:7:0
+[addtrip]
+144-TP-FSO
+0
+1327.000
+
+  Dep.: 8:6:0
+[addtrip]
+144-TP-FSO
+0
+486.000
+
+  Dep.: 8:47:0
+[addtrip]
+144-TP-SZL
+0
+527.000
+
+  Dep.: 9:26:0
+[addtrip]
+144-TP-FSO
+0
+566.000
+
+  Dep.: 10:7:0
+[addtrip]
+144-TP-SZL
+0
+607.000
+
+  Dep.: 10:46:0
+[addtrip]
+144-TP-FSO
+0
+646.000
+
+  Dep.: 11:27:0
+[addtrip]
+144-TP-SZL
+0
+687.000
+
+  Dep.: 12:6:0
+[addtrip]
+144-TP-FSO
+0
+726.000
+
+  Dep.: 12:47:0
+[addtrip]
+144-TP-SZL
+0
+767.000
+
+  Dep.: 13:26:0
+[addtrip]
+144-TP-FSO
+0
+806.000
+
+  Dep.: 14:7:0
+[addtrip]
+144-TP-SZL
+0
+847.000
+
+  Dep.: 14:46:0
+[addtrip]
+144-TP-FSO
+0
+886.000
+
+  Dep.: 15:27:0
+[addtrip]
+144-TP-SZL
+0
+927.000
+
+  Dep.: 16:6:0
+[addtrip]
+144-TP-FSO
+0
+966.000
+
+  Dep.: 16:47:0
+[addtrip]
+144-TP-SZL
+0
+1007.000
+
+  Dep.: 17:26:0
+[addtrip]
+144-TP-FSO
+0
+1046.000
+
+  Dep.: 18:7:0
+[addtrip]
+144-TP-SZL
+0
+1087.000
+
+  Dep.: 18:46:0
+[addtrip]
+144-TP-FSO
+0
+1126.000
+
+  Dep.: 19:27:0
+[addtrip]
+144-TP-SZL
+0
+1167.000
+
+------------------------------------
+
+[newtour]
+4
+PKS 12m
+287
+
+------------------------------------
+
+  Dep.: 7:6:0
+[addtrip]
+144-TP-FSO
+0
+426.000
+
+  Dep.: 7:47:0
+[addtrip]
+144-TP-SZL
+0
+467.000
+
+  Dep.: 8:26:0
+[addtrip]
+144-TP-FSO
+0
+506.000
+
+  Dep.: 9:7:0
+[addtrip]
+144-TP-SZL
+0
+547.000
+
+  Dep.: 9:46:0
+[addtrip]
+144-TP-FSO
+0
+586.000
+
+  Dep.: 10:27:0
+[addtrip]
+144-TP-SZL
+0
+627.000
+
+  Dep.: 11:6:0
+[addtrip]
+144-TP-FSO
+0
+666.000
+
+  Dep.: 11:47:0
+[addtrip]
+144-TP-SZL
+0
+707.000
+
+  Dep.: 12:26:0
+[addtrip]
+144-TP-FSO
+0
+746.000
+
+  Dep.: 13:7:0
+[addtrip]
+144-TP-SZL
+0
+787.000
+
+  Dep.: 13:46:0
+[addtrip]
+144-TP-FSO
+0
+826.000
+
+  Dep.: 14:27:0
+[addtrip]
+144-TP-SZL
+0
+867.000
+
+  Dep.: 15:6:0
+[addtrip]
+144-TP-FSO
+0
+906.000
+
+  Dep.: 15:47:0
+[addtrip]
+144-TP-SZL
+0
+947.000
+
+  Dep.: 16:26:0
+[addtrip]
+144-TP-FSO
+0
+986.000
+
+  Dep.: 17:7:0
+[addtrip]
+144-TP-SZL
+0
+1027.000
+
+  Dep.: 17:46:0
+[addtrip]
+144-TP-FSO
+0
+1066.000
+
+  Dep.: 18:27:0
+[addtrip]
+144-TP-SZL
+0
+1107.000
+
+  Dep.: 19:9:0
+[addtrip]
+144-TP-FSO
+0
+1149.000
+

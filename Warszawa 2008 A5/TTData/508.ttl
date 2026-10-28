@@ -1,0 +1,1715 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 01.08.2026
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+ITS 18m
+287
+
+------------------------------------
+
+  Dep.: 5:1:0
+[addtrip]
+508-TP-MRM
+0
+301.000
+
+  Dep.: 5:31:0
+[addtrip]
+508-TP-NWD
+0
+331.000
+
+  Dep.: 6:3:0
+[addtrip]
+508-TP-MRM
+0
+363.000
+
+  Dep.: 6:33:0
+[addtrip]
+508-TP-NWD
+0
+393.000
+
+  Dep.: 7:0:0
+[addtrip]
+508-TP-MRM
+0
+420.000
+
+  Dep.: 7:30:0
+[addtrip]
+508-TP-NWD
+0
+450.000
+
+  Dep.: 8:3:0
+[addtrip]
+508-TP-MRM
+0
+483.000
+
+  Dep.: 8:33:0
+[addtrip]
+508-TP-NWD
+0
+513.000
+
+  Dep.: 9:3:0
+[addtrip]
+508-TP-MRM
+0
+543.000
+
+  Dep.: 9:33:0
+[addtrip]
+508-TP-NWD
+0
+573.000
+
+  Dep.: 10:3:0
+[addtrip]
+508-TP-MRM
+0
+603.000
+
+  Dep.: 10:33:0
+[addtrip]
+508-TP-NWD
+0
+633.000
+
+  Dep.: 11:3:0
+[addtrip]
+508-TP-MRM
+0
+663.000
+
+  Dep.: 11:33:0
+[addtrip]
+508-TP-NWD
+0
+693.000
+
+  Dep.: 12:3:0
+[addtrip]
+508-TP-MRM
+0
+723.000
+
+  Dep.: 12:33:0
+[addtrip]
+508-TP-NWD
+0
+753.000
+
+  Dep.: 13:3:0
+[addtrip]
+508-TP-MRM
+0
+783.000
+
+  Dep.: 13:33:0
+[addtrip]
+508-TP-NWD
+0
+813.000
+
+  Dep.: 14:4:0
+[addtrip]
+508-TP-MRM
+0
+844.000
+
+  Dep.: 14:34:0
+[addtrip]
+508-TP-NWD
+0
+874.000
+
+  Dep.: 15:0:0
+[addtrip]
+508-TP-MRM
+0
+900.000
+
+  Dep.: 15:30:0
+[addtrip]
+508-TP-NWD
+0
+930.000
+
+  Dep.: 16:4:0
+[addtrip]
+508-TP-MRM
+0
+964.000
+
+  Dep.: 16:34:0
+[addtrip]
+508-TP-NWD
+0
+994.000
+
+  Dep.: 17:0:0
+[addtrip]
+508-TP-MRM
+0
+1020.000
+
+  Dep.: 17:30:0
+[addtrip]
+508-TP-NWD
+0
+1050.000
+
+  Dep.: 18:4:0
+[addtrip]
+508-TP-MRM
+0
+1084.000
+
+  Dep.: 18:34:0
+[addtrip]
+508-TP-NWD
+0
+1114.000
+
+  Dep.: 19:0:0
+[addtrip]
+508-TP-MRM
+0
+1140.000
+
+  Dep.: 19:30:0
+[addtrip]
+508-TP-NWD
+0
+1170.000
+
+  Dep.: 19:58:0
+[addtrip]
+508-TP-MRM
+0
+1198.000
+
+  Dep.: 20:28:0
+[addtrip]
+508-TP-NWD
+0
+1228.000
+
+  Dep.: 21:0:0
+[addtrip]
+508-TP-MRM
+0
+1260.000
+
+  Dep.: 21:30:0
+[addtrip]
+508-TP-NWD
+0
+1290.000
+
+  Dep.: 22:0:0
+[addtrip]
+508-TP-MRM
+0
+1320.000
+
+  Dep.: 22:30:0
+[addtrip]
+508-TP-NWD
+0
+1350.000
+
+  Dep.: 23:6:0
+[addtrip]
+508-TP-MRM
+0
+1386.000
+
+  Dep.: 23:36:0
+[addtrip]
+508-TP-NWD
+0
+1416.000
+
+  Dep.: 24:6:0
+[addtrip]
+508-TP-MRM
+0
+1446.000
+
+  Dep.: 24:36:0
+[addtrip]
+508-TP-NWD
+0
+1476.000
+
+------------------------------------
+
+[newtour]
+2
+ITS 18m
+287
+
+------------------------------------
+
+  Dep.: 5:11:0
+[addtrip]
+508-TP-MRM
+0
+311.000
+
+  Dep.: 5:41:0
+[addtrip]
+508-TP-NWD
+0
+341.000
+
+  Dep.: 6:10:0
+[addtrip]
+508-TP-MRM
+0
+370.000
+
+  Dep.: 6:40:0
+[addtrip]
+508-TP-NWD
+0
+400.000
+
+  Dep.: 7:10:0
+[addtrip]
+508-TP-MRM
+0
+430.000
+
+  Dep.: 7:40:0
+[addtrip]
+508-TP-NWD
+0
+460.000
+
+  Dep.: 8:10:0
+[addtrip]
+508-TP-MRM
+0
+490.000
+
+  Dep.: 8:40:0
+[addtrip]
+508-TP-NWD
+0
+520.000
+
+  Dep.: 9:10:0
+[addtrip]
+508-TP-MRM
+0
+550.000
+
+  Dep.: 9:40:0
+[addtrip]
+508-TP-NWD
+0
+580.000
+
+  Dep.: 10:10:0
+[addtrip]
+508-TP-MRM
+0
+610.000
+
+  Dep.: 10:40:0
+[addtrip]
+508-TP-NWD
+0
+640.000
+
+  Dep.: 11:10:0
+[addtrip]
+508-TP-MRM
+0
+670.000
+
+  Dep.: 11:40:0
+[addtrip]
+508-TP-NWD
+0
+700.000
+
+  Dep.: 12:10:0
+[addtrip]
+508-TP-MRM
+0
+730.000
+
+  Dep.: 12:40:0
+[addtrip]
+508-TP-NWD
+0
+760.000
+
+  Dep.: 13:10:0
+[addtrip]
+508-TP-MRM
+0
+790.000
+
+  Dep.: 13:40:0
+[addtrip]
+508-TP-NWD
+0
+820.000
+
+  Dep.: 14:12:0
+[addtrip]
+508-TP-MRM
+0
+852.000
+
+  Dep.: 14:42:0
+[addtrip]
+508-TP-NWD
+0
+882.000
+
+  Dep.: 15:8:0
+[addtrip]
+508-TP-MRM
+0
+908.000
+
+  Dep.: 15:38:0
+[addtrip]
+508-TP-NWD
+0
+938.000
+
+  Dep.: 16:12:0
+[addtrip]
+508-TP-MRM
+0
+972.000
+
+  Dep.: 16:42:0
+[addtrip]
+508-TP-NWD
+0
+1002.000
+
+  Dep.: 17:8:0
+[addtrip]
+508-TP-MRM
+0
+1028.000
+
+  Dep.: 17:38:0
+[addtrip]
+508-TP-NWD
+0
+1058.000
+
+  Dep.: 18:12:0
+[addtrip]
+508-TP-MRM
+0
+1092.000
+
+  Dep.: 18:42:0
+[addtrip]
+508-TP-NWD
+0
+1122.000
+
+  Dep.: 19:8:0
+[addtrip]
+508-TP-MRM
+0
+1148.000
+
+  Dep.: 19:38:0
+[addtrip]
+508-TP-NWD
+0
+1178.000
+
+  Dep.: 20:13:0
+[addtrip]
+508-TP-MRM
+0
+1213.000
+
+  Dep.: 20:43:0
+[addtrip]
+508-TP-NWD
+0
+1243.000
+
+  Dep.: 21:10:0
+[addtrip]
+508-TP-MRM
+0
+1270.000
+
+  Dep.: 21:40:0
+[addtrip]
+508-TP-NWD
+0
+1300.000
+
+  Dep.: 22:10:0
+[addtrip]
+508-TP-MRM
+0
+1330.000
+
+  Dep.: 22:40:0
+[addtrip]
+508-TP-NWD
+0
+1360.000
+
+------------------------------------
+
+[newtour]
+3
+ITS 18m
+287
+
+------------------------------------
+
+  Dep.: 5:21:0
+[addtrip]
+508-TP-MRM
+0
+321.000
+
+  Dep.: 5:51:0
+[addtrip]
+508-TP-NWD
+0
+351.000
+
+  Dep.: 6:18:0
+[addtrip]
+508-TP-MRM
+0
+378.000
+
+  Dep.: 6:48:0
+[addtrip]
+508-TP-NWD
+0
+408.000
+
+  Dep.: 7:20:0
+[addtrip]
+508-TP-MRM
+0
+440.000
+
+  Dep.: 7:50:0
+[addtrip]
+508-TP-NWD
+0
+470.000
+
+  Dep.: 8:18:0
+[addtrip]
+508-TP-MRM
+0
+498.000
+
+  Dep.: 8:48:0
+[addtrip]
+508-TP-NWD
+0
+528.000
+
+  Dep.: 9:18:0
+[addtrip]
+508-TP-MRM
+0
+558.000
+
+  Dep.: 9:48:0
+[addtrip]
+508-TP-NWD
+0
+588.000
+
+  Dep.: 10:18:0
+[addtrip]
+508-TP-MRM
+0
+618.000
+
+  Dep.: 10:48:0
+[addtrip]
+508-TP-NWD
+0
+648.000
+
+  Dep.: 11:18:0
+[addtrip]
+508-TP-MRM
+0
+678.000
+
+  Dep.: 11:48:0
+[addtrip]
+508-TP-NWD
+0
+708.000
+
+  Dep.: 12:18:0
+[addtrip]
+508-TP-MRM
+0
+738.000
+
+  Dep.: 12:48:0
+[addtrip]
+508-TP-NWD
+0
+768.000
+
+  Dep.: 13:18:0
+[addtrip]
+508-TP-MRM
+0
+798.000
+
+  Dep.: 13:48:0
+[addtrip]
+508-TP-NWD
+0
+828.000
+
+  Dep.: 14:20:0
+[addtrip]
+508-TP-MRM
+0
+860.000
+
+  Dep.: 14:50:0
+[addtrip]
+508-TP-NWD
+0
+890.000
+
+  Dep.: 15:16:0
+[addtrip]
+508-TP-MRM
+0
+916.000
+
+  Dep.: 15:46:0
+[addtrip]
+508-TP-NWD
+0
+946.000
+
+  Dep.: 16:20:0
+[addtrip]
+508-TP-MRM
+0
+980.000
+
+  Dep.: 16:50:0
+[addtrip]
+508-TP-NWD
+0
+1010.000
+
+  Dep.: 17:16:0
+[addtrip]
+508-TP-MRM
+0
+1036.000
+
+  Dep.: 17:46:0
+[addtrip]
+508-TP-NWD
+0
+1066.000
+
+  Dep.: 18:20:0
+[addtrip]
+508-TP-MRM
+0
+1100.000
+
+  Dep.: 18:50:0
+[addtrip]
+508-TP-NWD
+0
+1130.000
+
+  Dep.: 19:16:0
+[addtrip]
+508-TP-MRM
+0
+1156.000
+
+  Dep.: 19:46:0
+[addtrip]
+508-TP-NWD
+0
+1186.000
+
+  Dep.: 20:20:0
+[addtrip]
+508-TP-MRM
+0
+1220.000
+
+  Dep.: 20:50:0
+[addtrip]
+508-TP-NWD
+0
+1250.000
+
+  Dep.: 21:20:0
+[addtrip]
+508-TP-MRM
+0
+1280.000
+
+  Dep.: 21:50:0
+[addtrip]
+508-TP-NWD
+0
+1310.000
+
+  Dep.: 22:21:0
+[addtrip]
+508-TP-MRM
+0
+1341.000
+
+  Dep.: 22:51:0
+[addtrip]
+508-TP-NWD
+0
+1371.000
+
+  Dep.: 23:21:0
+[addtrip]
+508-TP-MRM
+0
+1401.000
+
+  Dep.: 23:51:0
+[addtrip]
+508-TP-NWD
+0
+1431.000
+
+------------------------------------
+
+[newtour]
+4
+ITS 18m
+287
+
+------------------------------------
+
+  Dep.: 4:36:0
+[addtrip]
+508-TP-MRM
+0
+276.000
+
+  Dep.: 5:6:0
+[addtrip]
+508-TP-NWD
+0
+306.000
+
+  Dep.: 5:31:0
+[addtrip]
+508-TP-MRM
+0
+331.000
+
+  Dep.: 6:1:0
+[addtrip]
+508-TP-NWD
+0
+361.000
+
+  Dep.: 6:30:0
+[addtrip]
+508-TP-MRM
+0
+390.000
+
+  Dep.: 7:0:0
+[addtrip]
+508-TP-NWD
+0
+420.000
+
+  Dep.: 7:26:0
+[addtrip]
+508-TP-MRM
+0
+446.000
+
+  Dep.: 7:56:0
+[addtrip]
+508-TP-NWD
+0
+476.000
+
+  Dep.: 8:25:0
+[addtrip]
+508-TP-MRM
+0
+505.000
+
+  Dep.: 8:55:0
+[addtrip]
+508-TP-NWD
+0
+535.000
+
+  Dep.: 9:25:0
+[addtrip]
+508-TP-MRM
+0
+565.000
+
+  Dep.: 9:55:0
+[addtrip]
+508-TP-NWD
+0
+595.000
+
+  Dep.: 10:25:0
+[addtrip]
+508-TP-MRM
+0
+625.000
+
+  Dep.: 10:55:0
+[addtrip]
+508-TP-NWD
+0
+655.000
+
+  Dep.: 11:25:0
+[addtrip]
+508-TP-MRM
+0
+685.000
+
+  Dep.: 11:55:0
+[addtrip]
+508-TP-NWD
+0
+715.000
+
+  Dep.: 12:25:0
+[addtrip]
+508-TP-MRM
+0
+745.000
+
+  Dep.: 12:55:0
+[addtrip]
+508-TP-NWD
+0
+775.000
+
+  Dep.: 13:25:0
+[addtrip]
+508-TP-MRM
+0
+805.000
+
+  Dep.: 13:55:0
+[addtrip]
+508-TP-NWD
+0
+835.000
+
+  Dep.: 14:28:0
+[addtrip]
+508-TP-MRM
+0
+868.000
+
+  Dep.: 14:58:0
+[addtrip]
+508-TP-NWD
+0
+898.000
+
+  Dep.: 15:24:0
+[addtrip]
+508-TP-MRM
+0
+924.000
+
+  Dep.: 15:54:0
+[addtrip]
+508-TP-NWD
+0
+954.000
+
+  Dep.: 16:28:0
+[addtrip]
+508-TP-MRM
+0
+988.000
+
+  Dep.: 16:58:0
+[addtrip]
+508-TP-NWD
+0
+1018.000
+
+  Dep.: 17:24:0
+[addtrip]
+508-TP-MRM
+0
+1044.000
+
+  Dep.: 17:54:0
+[addtrip]
+508-TP-NWD
+0
+1074.000
+
+  Dep.: 18:28:0
+[addtrip]
+508-TP-MRM
+0
+1108.000
+
+  Dep.: 18:58:0
+[addtrip]
+508-TP-NWD
+0
+1138.000
+
+  Dep.: 19:24:0
+[addtrip]
+508-TP-MRM
+0
+1164.000
+
+  Dep.: 19:54:0
+[addtrip]
+508-TP-NWD
+0
+1194.000
+
+  Dep.: 20:30:0
+[addtrip]
+508-TP-MRM
+0
+1230.000
+
+  Dep.: 21:0:0
+[addtrip]
+508-TP-NWD
+0
+1260.000
+
+  Dep.: 21:30:0
+[addtrip]
+508-TP-MRM
+0
+1290.000
+
+  Dep.: 22:0:0
+[addtrip]
+508-TP-NWD
+0
+1320.000
+
+------------------------------------
+
+[newtour]
+5
+ITS 18m
+287
+
+------------------------------------
+
+  Dep.: 5:41:0
+[addtrip]
+508-TP-MRM
+0
+341.000
+
+  Dep.: 6:11:0
+[addtrip]
+508-TP-NWD
+0
+371.000
+
+  Dep.: 6:40:0
+[addtrip]
+508-TP-MRM
+0
+400.000
+
+  Dep.: 7:10:0
+[addtrip]
+508-TP-NWD
+0
+430.000
+
+  Dep.: 7:40:0
+[addtrip]
+508-TP-MRM
+0
+460.000
+
+  Dep.: 8:10:0
+[addtrip]
+508-TP-NWD
+0
+490.000
+
+  Dep.: 8:40:0
+[addtrip]
+508-TP-MRM
+0
+520.000
+
+  Dep.: 9:10:0
+[addtrip]
+508-TP-NWD
+0
+550.000
+
+  Dep.: 9:40:0
+[addtrip]
+508-TP-MRM
+0
+580.000
+
+  Dep.: 10:10:0
+[addtrip]
+508-TP-NWD
+0
+610.000
+
+  Dep.: 10:40:0
+[addtrip]
+508-TP-MRM
+0
+640.000
+
+  Dep.: 11:10:0
+[addtrip]
+508-TP-NWD
+0
+670.000
+
+  Dep.: 11:40:0
+[addtrip]
+508-TP-MRM
+0
+700.000
+
+  Dep.: 12:10:0
+[addtrip]
+508-TP-NWD
+0
+730.000
+
+  Dep.: 12:40:0
+[addtrip]
+508-TP-MRM
+0
+760.000
+
+  Dep.: 13:10:0
+[addtrip]
+508-TP-NWD
+0
+790.000
+
+  Dep.: 13:48:0
+[addtrip]
+508-TP-MRM
+0
+828.000
+
+  Dep.: 14:18:0
+[addtrip]
+508-TP-NWD
+0
+858.000
+
+  Dep.: 14:44:0
+[addtrip]
+508-TP-MRM
+0
+884.000
+
+  Dep.: 15:14:0
+[addtrip]
+508-TP-NWD
+0
+914.000
+
+  Dep.: 15:48:0
+[addtrip]
+508-TP-MRM
+0
+948.000
+
+  Dep.: 16:18:0
+[addtrip]
+508-TP-NWD
+0
+978.000
+
+  Dep.: 16:44:0
+[addtrip]
+508-TP-MRM
+0
+1004.000
+
+  Dep.: 17:14:0
+[addtrip]
+508-TP-NWD
+0
+1034.000
+
+  Dep.: 17:48:0
+[addtrip]
+508-TP-MRM
+0
+1068.000
+
+  Dep.: 18:18:0
+[addtrip]
+508-TP-NWD
+0
+1098.000
+
+  Dep.: 18:44:0
+[addtrip]
+508-TP-MRM
+0
+1124.000
+
+  Dep.: 19:14:0
+[addtrip]
+508-TP-NWD
+0
+1154.000
+
+  Dep.: 19:43:0
+[addtrip]
+508-TP-MRM
+0
+1183.000
+
+  Dep.: 20:13:0
+[addtrip]
+508-TP-NWD
+0
+1213.000
+
+  Dep.: 20:40:0
+[addtrip]
+508-TP-MRM
+0
+1240.000
+
+  Dep.: 21:10:0
+[addtrip]
+508-TP-NWD
+0
+1270.000
+
+  Dep.: 21:40:0
+[addtrip]
+508-TP-MRM
+0
+1300.000
+
+  Dep.: 22:10:0
+[addtrip]
+508-TP-NWD
+0
+1330.000
+
+  Dep.: 22:36:0
+[addtrip]
+508-TP-MRM
+0
+1356.000
+
+  Dep.: 23:6:0
+[addtrip]
+508-TP-NWD
+0
+1386.000
+
+  Dep.: 23:36:0
+[addtrip]
+508-TP-MRM
+0
+1416.000
+
+  Dep.: 24:6:0
+[addtrip]
+508-TP-NWD
+0
+1446.000
+
+------------------------------------
+
+[newtour]
+6
+ITS 18m
+287
+
+------------------------------------
+
+  Dep.: 6:35:0
+[addtrip]
+508-TP-MRM
+0
+395.000
+
+  Dep.: 7:5:0
+[addtrip]
+508-TP-NWD
+0
+425.000
+
+  Dep.: 7:33:0
+[addtrip]
+508-TP-MRM
+0
+453.000
+
+  Dep.: 8:3:0
+[addtrip]
+508-TP-NWD
+0
+483.000
+
+  Dep.: 8:33:0
+[addtrip]
+508-TP-MRM
+0
+513.000
+
+  Dep.: 9:3:0
+[addtrip]
+508-TP-NWD
+0
+543.000
+
+  Dep.: 9:33:0
+[addtrip]
+508-TP-MRM
+0
+573.000
+
+  Dep.: 10:3:0
+[addtrip]
+508-TP-NWD
+0
+603.000
+
+  Dep.: 10:33:0
+[addtrip]
+508-TP-MRM
+0
+633.000
+
+  Dep.: 11:3:0
+[addtrip]
+508-TP-NWD
+0
+663.000
+
+  Dep.: 11:33:0
+[addtrip]
+508-TP-MRM
+0
+693.000
+
+  Dep.: 12:3:0
+[addtrip]
+508-TP-NWD
+0
+723.000
+
+  Dep.: 12:33:0
+[addtrip]
+508-TP-MRM
+0
+753.000
+
+  Dep.: 13:3:0
+[addtrip]
+508-TP-NWD
+0
+783.000
+
+  Dep.: 13:33:0
+[addtrip]
+508-TP-MRM
+0
+813.000
+
+  Dep.: 14:3:0
+[addtrip]
+508-TP-NWD
+0
+843.000
+
+  Dep.: 14:36:0
+[addtrip]
+508-TP-MRM
+0
+876.000
+
+  Dep.: 15:6:0
+[addtrip]
+508-TP-NWD
+0
+906.000
+
+  Dep.: 15:32:0
+[addtrip]
+508-TP-MRM
+0
+932.000
+
+  Dep.: 16:2:0
+[addtrip]
+508-TP-NWD
+0
+962.000
+
+  Dep.: 16:36:0
+[addtrip]
+508-TP-MRM
+0
+996.000
+
+  Dep.: 17:6:0
+[addtrip]
+508-TP-NWD
+0
+1026.000
+
+  Dep.: 17:32:0
+[addtrip]
+508-TP-MRM
+0
+1052.000
+
+  Dep.: 18:2:0
+[addtrip]
+508-TP-NWD
+0
+1082.000
+
+  Dep.: 18:36:0
+[addtrip]
+508-TP-MRM
+0
+1116.000
+
+  Dep.: 19:6:0
+[addtrip]
+508-TP-NWD
+0
+1146.000
+
+  Dep.: 19:35:0
+[addtrip]
+508-TP-MRM
+0
+1175.000
+
+  Dep.: 20:5:0
+[addtrip]
+508-TP-NWD
+0
+1205.000
+
+------------------------------------
+
+[newtour]
+7
+ITS 18m
+287
+
+------------------------------------
+
+  Dep.: 4:51:0
+[addtrip]
+508-TP-MRM
+0
+291.000
+
+  Dep.: 5:21:0
+[addtrip]
+508-TP-NWD
+0
+321.000
+
+  Dep.: 5:56:0
+[addtrip]
+508-TP-MRM
+0
+356.000
+
+  Dep.: 6:26:0
+[addtrip]
+508-TP-NWD
+0
+386.000
+
+  Dep.: 6:55:0
+[addtrip]
+508-TP-MRM
+0
+415.000
+
+  Dep.: 7:25:0
+[addtrip]
+508-TP-NWD
+0
+445.000
+
+  Dep.: 7:55:0
+[addtrip]
+508-TP-MRM
+0
+475.000
+
+  Dep.: 8:25:0
+[addtrip]
+508-TP-NWD
+0
+505.000
+
+  Dep.: 8:55:0
+[addtrip]
+508-TP-MRM
+0
+535.000
+
+  Dep.: 9:25:0
+[addtrip]
+508-TP-NWD
+0
+565.000
+
+  Dep.: 9:55:0
+[addtrip]
+508-TP-MRM
+0
+595.000
+
+  Dep.: 10:25:0
+[addtrip]
+508-TP-NWD
+0
+625.000
+
+  Dep.: 10:55:0
+[addtrip]
+508-TP-MRM
+0
+655.000
+
+  Dep.: 11:25:0
+[addtrip]
+508-TP-NWD
+0
+685.000
+
+  Dep.: 11:55:0
+[addtrip]
+508-TP-MRM
+0
+715.000
+
+  Dep.: 12:25:0
+[addtrip]
+508-TP-NWD
+0
+745.000
+
+  Dep.: 12:55:0
+[addtrip]
+508-TP-MRM
+0
+775.000
+
+  Dep.: 13:25:0
+[addtrip]
+508-TP-NWD
+0
+805.000
+
+  Dep.: 13:56:0
+[addtrip]
+508-TP-MRM
+0
+836.000
+
+  Dep.: 14:26:0
+[addtrip]
+508-TP-NWD
+0
+866.000
+
+  Dep.: 14:52:0
+[addtrip]
+508-TP-MRM
+0
+892.000
+
+  Dep.: 15:22:0
+[addtrip]
+508-TP-NWD
+0
+922.000
+
+  Dep.: 15:56:0
+[addtrip]
+508-TP-MRM
+0
+956.000
+
+  Dep.: 16:26:0
+[addtrip]
+508-TP-NWD
+0
+986.000
+
+  Dep.: 16:52:0
+[addtrip]
+508-TP-MRM
+0
+1012.000
+
+  Dep.: 17:22:0
+[addtrip]
+508-TP-NWD
+0
+1042.000
+
+  Dep.: 17:56:0
+[addtrip]
+508-TP-MRM
+0
+1076.000
+
+  Dep.: 18:26:0
+[addtrip]
+508-TP-NWD
+0
+1106.000
+
+  Dep.: 18:52:0
+[addtrip]
+508-TP-MRM
+0
+1132.000
+
+  Dep.: 19:22:0
+[addtrip]
+508-TP-NWD
+0
+1162.000
+
+  Dep.: 19:50:0
+[addtrip]
+508-TP-MRM
+0
+1190.000
+
+  Dep.: 20:20:0
+[addtrip]
+508-TP-NWD
+0
+1220.000
+
+  Dep.: 20:50:0
+[addtrip]
+508-TP-MRM
+0
+1250.000
+
+  Dep.: 21:20:0
+[addtrip]
+508-TP-NWD
+0
+1280.000
+
+  Dep.: 21:50:0
+[addtrip]
+508-TP-MRM
+0
+1310.000
+
+  Dep.: 22:20:0
+[addtrip]
+508-TP-NWD
+0
+1340.000
+
+  Dep.: 22:51:0
+[addtrip]
+508-TP-MRM
+0
+1371.000
+
+  Dep.: 23:21:0
+[addtrip]
+508-TP-NWD
+0
+1401.000
+
+------------------------------------
+
+[newtour]
+8
+ITS 18m
+287
+
+------------------------------------
+
+  Dep.: 5:48:0
+[addtrip]
+508-TP-MRM
+0
+348.000
+
+  Dep.: 6:18:0
+[addtrip]
+508-TP-NWD
+0
+378.000
+
+  Dep.: 6:45:0
+[addtrip]
+508-TP-MRM
+0
+405.000
+
+  Dep.: 7:15:0
+[addtrip]
+508-TP-NWD
+0
+435.000
+
+  Dep.: 7:48:0
+[addtrip]
+508-TP-MRM
+0
+468.000
+
+  Dep.: 8:18:0
+[addtrip]
+508-TP-NWD
+0
+498.000
+
+  Dep.: 8:48:0
+[addtrip]
+508-TP-MRM
+0
+528.000
+
+  Dep.: 9:18:0
+[addtrip]
+508-TP-NWD
+0
+558.000
+
+  Dep.: 9:48:0
+[addtrip]
+508-TP-MRM
+0
+588.000
+
+  Dep.: 10:18:0
+[addtrip]
+508-TP-NWD
+0
+618.000
+
+  Dep.: 10:48:0
+[addtrip]
+508-TP-MRM
+0
+648.000
+
+  Dep.: 11:18:0
+[addtrip]
+508-TP-NWD
+0
+678.000
+
+  Dep.: 11:48:0
+[addtrip]
+508-TP-MRM
+0
+708.000
+
+  Dep.: 12:18:0
+[addtrip]
+508-TP-NWD
+0
+738.000
+
+  Dep.: 12:48:0
+[addtrip]
+508-TP-MRM
+0
+768.000
+
+  Dep.: 13:18:0
+[addtrip]
+508-TP-NWD
+0
+798.000
+
+  Dep.: 13:48:0
+[addtrip]
+508-TP-MRM
+0
+828.000
+
+  Dep.: 14:18:0
+[addtrip]
+508-TP-NWD
+0
+858.000
+

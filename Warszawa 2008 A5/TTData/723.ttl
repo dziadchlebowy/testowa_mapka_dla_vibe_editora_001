@@ -1,0 +1,579 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 01.08.2026
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 4:59:0
+[addtrip]
+723-TP-PLP
+0
+299.000
+
+  Dep.: 5:20:0
+[addtrip]
+723-TP-FSO
+0
+320.000
+
+  Dep.: 5:40:0
+[addtrip]
+723-TP-PLP
+0
+340.000
+
+  Dep.: 6:22:0
+[addtrip]
+723-TP-FSO
+0
+382.000
+
+  Dep.: 6:42:0
+[addtrip]
+723-TP-PLP
+0
+402.000
+
+  Dep.: 7:22:0
+[addtrip]
+723-TP-FSO
+0
+442.000
+
+  Dep.: 7:42:0
+[addtrip]
+723-TP-PLP
+0
+462.000
+
+  Dep.: 8:40:0
+[addtrip]
+723-TP-FSO
+0
+520.000
+
+  Dep.: 9:0:0
+[addtrip]
+723-TP-PLP
+0
+540.000
+
+  Dep.: 10:10:0
+[addtrip]
+723-TP-FSO
+0
+610.000
+
+  Dep.: 10:30:0
+[addtrip]
+723-TP-PLP
+0
+630.000
+
+  Dep.: 11:40:0
+[addtrip]
+723-TP-FSO
+0
+700.000
+
+  Dep.: 12:0:0
+[addtrip]
+723-TP-PLP
+0
+720.000
+
+  Dep.: 13:10:0
+[addtrip]
+723-TP-FSO
+0
+790.000
+
+  Dep.: 13:30:0
+[addtrip]
+723-TP-PLP
+0
+810.000
+
+  Dep.: 14:35:0
+[addtrip]
+723-TP-FSO
+0
+875.000
+
+  Dep.: 14:55:0
+[addtrip]
+723-TP-PLP
+0
+895.000
+
+  Dep.: 15:35:0
+[addtrip]
+723-TP-FSO
+0
+935.000
+
+  Dep.: 15:55:0
+[addtrip]
+723-TP-PLP
+0
+955.000
+
+  Dep.: 16:35:0
+[addtrip]
+723-TP-FSO
+0
+995.000
+
+  Dep.: 16:55:0
+[addtrip]
+723-TP-PLP
+0
+1015.000
+
+  Dep.: 17:35:0
+[addtrip]
+723-TP-FSO
+0
+1055.000
+
+  Dep.: 17:55:0
+[addtrip]
+723-TP-PLP
+0
+1075.000
+
+  Dep.: 18:24:0
+[addtrip]
+723-TP-FSO
+0
+1104.000
+
+  Dep.: 18:44:0
+[addtrip]
+723-TP-PLP
+0
+1124.000
+
+  Dep.: 19:40:0
+[addtrip]
+723-TP-FSO
+0
+1180.000
+
+  Dep.: 20:0:0
+[addtrip]
+723-TP-PLP
+0
+1200.000
+
+  Dep.: 21:10:0
+[addtrip]
+723-TP-FSO
+0
+1270.000
+
+  Dep.: 21:30:0
+[addtrip]
+723-TP-PLP
+0
+1290.000
+
+  Dep.: 22:40:0
+[addtrip]
+723-TP-FSO
+0
+1360.000
+
+  Dep.: 23:0:0
+[addtrip]
+723-TP-PLP
+0
+1380.000
+
+------------------------------------
+
+[newtour]
+2
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 5:5:0
+[addtrip]
+723-TP-FSO
+0
+305.000
+
+  Dep.: 5:25:0
+[addtrip]
+723-TP-PLP
+0
+325.000
+
+  Dep.: 6:5:0
+[addtrip]
+723-TP-FSO
+0
+365.000
+
+  Dep.: 6:25:0
+[addtrip]
+723-TP-PLP
+0
+385.000
+
+  Dep.: 7:2:0
+[addtrip]
+723-TP-FSO
+0
+422.000
+
+  Dep.: 7:22:0
+[addtrip]
+723-TP-PLP
+0
+442.000
+
+  Dep.: 8:10:0
+[addtrip]
+723-TP-FSO
+0
+490.000
+
+  Dep.: 8:30:0
+[addtrip]
+723-TP-PLP
+0
+510.000
+
+  Dep.: 9:40:0
+[addtrip]
+723-TP-FSO
+0
+580.000
+
+  Dep.: 10:0:0
+[addtrip]
+723-TP-PLP
+0
+600.000
+
+  Dep.: 11:10:0
+[addtrip]
+723-TP-FSO
+0
+670.000
+
+  Dep.: 11:30:0
+[addtrip]
+723-TP-PLP
+0
+690.000
+
+  Dep.: 12:40:0
+[addtrip]
+723-TP-FSO
+0
+760.000
+
+  Dep.: 13:0:0
+[addtrip]
+723-TP-PLP
+0
+780.000
+
+  Dep.: 14:3:0
+[addtrip]
+723-TP-FSO
+0
+843.000
+
+  Dep.: 14:23:0
+[addtrip]
+723-TP-PLP
+0
+863.000
+
+  Dep.: 15:5:0
+[addtrip]
+723-TP-FSO
+0
+905.000
+
+  Dep.: 15:25:0
+[addtrip]
+723-TP-PLP
+0
+925.000
+
+  Dep.: 16:5:0
+[addtrip]
+723-TP-FSO
+0
+965.000
+
+  Dep.: 16:25:0
+[addtrip]
+723-TP-PLP
+0
+985.000
+
+  Dep.: 16:50:0
+[addtrip]
+723-TP-FSO
+0
+1010.000
+
+  Dep.: 17:10:0
+[addtrip]
+723-TP-PLP
+0
+1030.000
+
+  Dep.: 17:50:0
+[addtrip]
+723-TP-FSO
+0
+1070.000
+
+  Dep.: 18:10:0
+[addtrip]
+723-TP-PLP
+0
+1090.000
+
+  Dep.: 18:45:0
+[addtrip]
+723-TP-FSO
+0
+1125.000
+
+  Dep.: 19:5:0
+[addtrip]
+723-TP-PLP
+0
+1145.000
+
+  Dep.: 20:10:0
+[addtrip]
+723-TP-FSO
+0
+1210.000
+
+  Dep.: 20:30:0
+[addtrip]
+723-TP-PLP
+0
+1230.000
+
+  Dep.: 21:40:0
+[addtrip]
+723-TP-FSO
+0
+1300.000
+
+  Dep.: 22:0:0
+[addtrip]
+723-TP-PLP
+0
+1320.000
+
+------------------------------------
+
+[newtour]
+3
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 4:50:0
+[addtrip]
+723-TP-FSO
+0
+290.000
+
+  Dep.: 5:10:0
+[addtrip]
+723-TP-PLP
+0
+310.000
+
+  Dep.: 5:35:0
+[addtrip]
+723-TP-FSO
+0
+335.000
+
+  Dep.: 5:55:0
+[addtrip]
+723-TP-PLP
+0
+355.000
+
+  Dep.: 6:42:0
+[addtrip]
+723-TP-FSO
+0
+402.000
+
+  Dep.: 7:2:0
+[addtrip]
+723-TP-PLP
+0
+422.000
+
+------------------------------------
+
+[newtour]
+4
+R-13 Stalowa 18m
+287
+
+------------------------------------
+
+  Dep.: 5:50:0
+[addtrip]
+723-TP-FSO
+0
+350.000
+
+  Dep.: 6:10:0
+[addtrip]
+723-TP-PLP
+0
+370.000
+
+  Dep.: 7:42:0
+[addtrip]
+723-TP-FSO
+0
+462.000
+
+  Dep.: 8:2:0
+[addtrip]
+723-TP-PLP
+0
+482.000
+
+  Dep.: 9:10:0
+[addtrip]
+723-TP-FSO
+0
+550.000
+
+  Dep.: 9:30:0
+[addtrip]
+723-TP-PLP
+0
+570.000
+
+  Dep.: 10:40:0
+[addtrip]
+723-TP-FSO
+0
+640.000
+
+  Dep.: 11:0:0
+[addtrip]
+723-TP-PLP
+0
+660.000
+
+  Dep.: 12:10:0
+[addtrip]
+723-TP-FSO
+0
+730.000
+
+  Dep.: 12:30:0
+[addtrip]
+723-TP-PLP
+0
+750.000
+
+  Dep.: 13:40:0
+[addtrip]
+723-TP-FSO
+0
+820.000
+
+  Dep.: 14:0:0
+[addtrip]
+723-TP-PLP
+0
+840.000
+
+  Dep.: 15:20:0
+[addtrip]
+723-TP-FSO
+0
+920.000
+
+  Dep.: 15:40:0
+[addtrip]
+723-TP-PLP
+0
+940.000
+
+  Dep.: 17:5:0
+[addtrip]
+723-TP-FSO
+0
+1025.000
+
+  Dep.: 17:25:0
+[addtrip]
+723-TP-PLP
+0
+1045.000
+
+  Dep.: 19:10:0
+[addtrip]
+723-TP-FSO
+0
+1150.000
+
+  Dep.: 19:30:0
+[addtrip]
+723-TP-PLP
+0
+1170.000
+
+  Dep.: 20:40:0
+[addtrip]
+723-TP-FSO
+0
+1240.000
+
+  Dep.: 21:0:0
+[addtrip]
+723-TP-PLP
+0
+1260.000
+
+  Dep.: 22:10:0
+[addtrip]
+723-TP-FSO
+0
+1330.000
+
+  Dep.: 22:30:0
+[addtrip]
+723-TP-PLP
+0
+1350.000
+

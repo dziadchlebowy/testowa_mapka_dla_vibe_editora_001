@@ -1,0 +1,561 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 01.08.2026
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+R-13 Stalowa 12m
+287
+
+------------------------------------
+
+  Dep.: 5:7:0
+[addtrip]
+152-TP-FSO
+0
+307.000
+
+  Dep.: 5:22:0
+[addtrip]
+152-TP-BDW
+0
+322.000
+
+  Dep.: 6:6:0
+[addtrip]
+152-TP-FSO
+0
+366.000
+
+  Dep.: 6:21:0
+[addtrip]
+152-TP-BDW
+0
+381.000
+
+  Dep.: 7:15:0
+[addtrip]
+152-TP-FSO
+0
+435.000
+
+  Dep.: 7:30:0
+[addtrip]
+152-TP-BDW
+0
+450.000
+
+  Dep.: 8:15:0
+[addtrip]
+152-TP-FSO
+0
+495.000
+
+  Dep.: 8:30:0
+[addtrip]
+152-TP-BDW
+0
+510.000
+
+  Dep.: 9:41:0
+[addtrip]
+152-TP-FSO
+0
+581.000
+
+  Dep.: 9:56:0
+[addtrip]
+152-TP-BDW
+0
+596.000
+
+  Dep.: 10:41:0
+[addtrip]
+152-TP-FSO
+0
+641.000
+
+  Dep.: 10:56:0
+[addtrip]
+152-TP-BDW
+0
+656.000
+
+  Dep.: 11:41:0
+[addtrip]
+152-TP-FSO
+0
+701.000
+
+  Dep.: 11:56:0
+[addtrip]
+152-TP-BDW
+0
+716.000
+
+  Dep.: 12:41:0
+[addtrip]
+152-TP-FSO
+0
+761.000
+
+  Dep.: 12:56:0
+[addtrip]
+152-TP-BDW
+0
+776.000
+
+  Dep.: 13:41:0
+[addtrip]
+152-TP-FSO
+0
+821.000
+
+  Dep.: 13:56:0
+[addtrip]
+152-TP-BDW
+0
+836.000
+
+  Dep.: 14:48:0
+[addtrip]
+152-TP-FSO
+0
+888.000
+
+  Dep.: 15:3:0
+[addtrip]
+152-TP-BDW
+0
+903.000
+
+  Dep.: 15:48:0
+[addtrip]
+152-TP-FSO
+0
+948.000
+
+  Dep.: 16:3:0
+[addtrip]
+152-TP-BDW
+0
+963.000
+
+  Dep.: 16:48:0
+[addtrip]
+152-TP-FSO
+0
+1008.000
+
+  Dep.: 17:3:0
+[addtrip]
+152-TP-BDW
+0
+1023.000
+
+  Dep.: 17:48:0
+[addtrip]
+152-TP-FSO
+0
+1068.000
+
+  Dep.: 18:3:0
+[addtrip]
+152-TP-BDW
+0
+1083.000
+
+  Dep.: 19:9:0
+[addtrip]
+152-TP-FSO
+0
+1149.000
+
+  Dep.: 19:24:0
+[addtrip]
+152-TP-BDW
+0
+1164.000
+
+  Dep.: 20:9:0
+[addtrip]
+152-TP-FSO
+0
+1209.000
+
+  Dep.: 20:24:0
+[addtrip]
+152-TP-BDW
+0
+1224.000
+
+  Dep.: 21:4:0
+[addtrip]
+152-TP-FSO
+0
+1264.000
+
+  Dep.: 21:19:0
+[addtrip]
+152-TP-BDW
+0
+1279.000
+
+  Dep.: 22:4:0
+[addtrip]
+152-TP-FSO
+0
+1324.000
+
+  Dep.: 22:19:0
+[addtrip]
+152-TP-BDW
+0
+1339.000
+
+------------------------------------
+
+[newtour]
+2
+R-13 Stalowa 12m
+287
+
+------------------------------------
+
+  Dep.: 6:55:0
+[addtrip]
+152-TP-FSO
+0
+415.000
+
+  Dep.: 7:10:0
+[addtrip]
+152-TP-BDW
+0
+430.000
+
+  Dep.: 7:55:0
+[addtrip]
+152-TP-FSO
+0
+475.000
+
+  Dep.: 8:10:0
+[addtrip]
+152-TP-BDW
+0
+490.000
+
+  Dep.: 9:11:0
+[addtrip]
+152-TP-FSO
+0
+551.000
+
+  Dep.: 9:26:0
+[addtrip]
+152-TP-BDW
+0
+566.000
+
+  Dep.: 10:11:0
+[addtrip]
+152-TP-FSO
+0
+611.000
+
+  Dep.: 10:26:0
+[addtrip]
+152-TP-BDW
+0
+626.000
+
+  Dep.: 11:11:0
+[addtrip]
+152-TP-FSO
+0
+671.000
+
+  Dep.: 11:26:0
+[addtrip]
+152-TP-BDW
+0
+686.000
+
+  Dep.: 12:11:0
+[addtrip]
+152-TP-FSO
+0
+731.000
+
+  Dep.: 12:26:0
+[addtrip]
+152-TP-BDW
+0
+746.000
+
+  Dep.: 13:11:0
+[addtrip]
+152-TP-FSO
+0
+791.000
+
+  Dep.: 13:26:0
+[addtrip]
+152-TP-BDW
+0
+806.000
+
+  Dep.: 14:8:0
+[addtrip]
+152-TP-FSO
+0
+848.000
+
+  Dep.: 14:23:0
+[addtrip]
+152-TP-BDW
+0
+863.000
+
+  Dep.: 15:8:0
+[addtrip]
+152-TP-FSO
+0
+908.000
+
+  Dep.: 15:23:0
+[addtrip]
+152-TP-BDW
+0
+923.000
+
+  Dep.: 16:8:0
+[addtrip]
+152-TP-FSO
+0
+968.000
+
+  Dep.: 16:23:0
+[addtrip]
+152-TP-BDW
+0
+983.000
+
+  Dep.: 17:8:0
+[addtrip]
+152-TP-FSO
+0
+1028.000
+
+  Dep.: 17:23:0
+[addtrip]
+152-TP-BDW
+0
+1043.000
+
+  Dep.: 18:11:0
+[addtrip]
+152-TP-FSO
+0
+1091.000
+
+  Dep.: 18:26:0
+[addtrip]
+152-TP-BDW
+0
+1106.000
+
+  Dep.: 19:39:0
+[addtrip]
+152-TP-FSO
+0
+1179.000
+
+  Dep.: 19:54:0
+[addtrip]
+152-TP-BDW
+0
+1194.000
+
+  Dep.: 20:39:0
+[addtrip]
+152-TP-FSO
+0
+1239.000
+
+  Dep.: 20:54:0
+[addtrip]
+152-TP-BDW
+0
+1254.000
+
+  Dep.: 21:34:0
+[addtrip]
+152-TP-FSO
+0
+1294.000
+
+  Dep.: 21:49:0
+[addtrip]
+152-TP-BDW
+0
+1309.000
+
+  Dep.: 22:44:0
+[addtrip]
+152-TP-FSO
+0
+1364.000
+
+  Dep.: 22:59:0
+[addtrip]
+152-TP-BDW
+0
+1379.000
+
+------------------------------------
+
+[newtour]
+03
+R-13 Stalowa 12m (W)
+287
+
+------------------------------------
+
+  Dep.: 4:34:0
+[addtrip]
+152-TP-FSO
+0
+274.000
+
+  Dep.: 4:49:0
+[addtrip]
+152-TP-BDW
+0
+289.000
+
+  Dep.: 5:36:0
+[addtrip]
+152-TP-FSO
+0
+336.000
+
+  Dep.: 5:51:0
+[addtrip]
+152-TP-BDW
+0
+351.000
+
+  Dep.: 6:35:0
+[addtrip]
+152-TP-FSO
+0
+395.000
+
+  Dep.: 6:50:0
+[addtrip]
+152-TP-BDW
+0
+410.000
+
+  Dep.: 7:35:0
+[addtrip]
+152-TP-FSO
+0
+455.000
+
+  Dep.: 7:50:0
+[addtrip]
+152-TP-BDW
+0
+470.000
+
+  Dep.: 8:43:0
+[addtrip]
+152-TP-FSO
+0
+523.000
+
+  Dep.: 8:58:0
+[addtrip]
+152-TP-BDW
+0
+538.000
+
+------------------------------------
+
+[newtour]
+04
+R-13 Stalowa 12m (W)
+287
+
+------------------------------------
+
+  Dep.: 14:28:0
+[addtrip]
+152-TP-FSO
+0
+868.000
+
+  Dep.: 14:43:0
+[addtrip]
+152-TP-BDW
+0
+883.000
+
+  Dep.: 15:28:0
+[addtrip]
+152-TP-FSO
+0
+928.000
+
+  Dep.: 15:43:0
+[addtrip]
+152-TP-BDW
+0
+943.000
+
+  Dep.: 16:28:0
+[addtrip]
+152-TP-FSO
+0
+988.000
+
+  Dep.: 16:43:0
+[addtrip]
+152-TP-BDW
+0
+1003.000
+
+  Dep.: 17:28:0
+[addtrip]
+152-TP-FSO
+0
+1048.000
+
+  Dep.: 17:43:0
+[addtrip]
+152-TP-BDW
+0
+1063.000
+
+  Dep.: 18:41:0
+[addtrip]
+152-TP-FSO
+0
+1121.000
+
+  Dep.: 18:56:0
+[addtrip]
+152-TP-BDW
+0
+1136.000
+

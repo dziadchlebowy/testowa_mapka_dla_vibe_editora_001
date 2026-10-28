@@ -1,0 +1,953 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 01.08.2026
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+01
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 5:40:0
+[addtrip]
+E8-TP-MRM
+0
+340.000
+
+  Dep.: 6:5:0
+[addtrip]
+E8-TP-NWD
+0
+365.000
+
+  Dep.: 6:32:0
+[addtrip]
+E8-TP-MRM
+0
+392.000
+
+  Dep.: 6:58:0
+[addtrip]
+E8-TP-NWD
+0
+418.000
+
+  Dep.: 7:20:0
+[addtrip]
+E8-TP-MRM
+0
+440.000
+
+  Dep.: 7:48:0
+[addtrip]
+E8-TP-NWD
+0
+468.000
+
+------------------------------------
+
+[newtour]
+02
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 5:50:0
+[addtrip]
+E8-TP-MRM
+0
+350.000
+
+  Dep.: 6:15:0
+[addtrip]
+E8-TP-NWD
+0
+375.000
+
+  Dep.: 6:40:0
+[addtrip]
+E8-TP-MRM
+0
+400.000
+
+  Dep.: 7:7:0
+[addtrip]
+E8-TP-NWD
+0
+427.000
+
+  Dep.: 7:28:0
+[addtrip]
+E8-TP-MRM
+0
+448.000
+
+------------------------------------
+
+[newtour]
+03
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+E8-TP-MRM
+0
+360.000
+
+  Dep.: 6:25:0
+[addtrip]
+E8-TP-NWD
+0
+385.000
+
+  Dep.: 6:48:0
+[addtrip]
+E8-TP-MRM
+0
+408.000
+
+  Dep.: 7:15:0
+[addtrip]
+E8-TP-NWD
+0
+435.000
+
+  Dep.: 7:36:0
+[addtrip]
+E8-TP-MRM
+0
+456.000
+
+------------------------------------
+
+[newtour]
+04
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 6:8:0
+[addtrip]
+E8-TP-MRM
+0
+368.000
+
+  Dep.: 6:33:0
+[addtrip]
+E8-TP-NWD
+0
+393.000
+
+  Dep.: 6:56:0
+[addtrip]
+E8-TP-MRM
+0
+416.000
+
+  Dep.: 7:23:0
+[addtrip]
+E8-TP-NWD
+0
+443.000
+
+  Dep.: 7:45:0
+[addtrip]
+E8-TP-MRM
+0
+465.000
+
+  Dep.: 8:10:0
+[addtrip]
+E8-TP-NWD
+0
+490.000
+
+  Dep.: 8:36:0
+[addtrip]
+E8-TP-MRM
+0
+516.000
+
+  Dep.: 9:5:0
+[addtrip]
+E8-TP-NWD
+0
+545.000
+
+  Dep.: 9:30:0
+[addtrip]
+E8-TP-MRM
+0
+570.000
+
+------------------------------------
+
+[newtour]
+05
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 6:16:0
+[addtrip]
+E8-TP-MRM
+0
+376.000
+
+  Dep.: 6:41:0
+[addtrip]
+E8-TP-NWD
+0
+401.000
+
+  Dep.: 7:4:0
+[addtrip]
+E8-TP-MRM
+0
+424.000
+
+  Dep.: 7:31:0
+[addtrip]
+E8-TP-NWD
+0
+451.000
+
+  Dep.: 7:55:0
+[addtrip]
+E8-TP-MRM
+0
+475.000
+
+  Dep.: 8:16:0
+[addtrip]
+E8-TP-NWD
+0
+496.000
+
+  Dep.: 8:44:0
+[addtrip]
+E8-TP-MRM
+0
+524.000
+
+------------------------------------
+
+[newtour]
+06
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 6:23:0
+[addtrip]
+E8-TP-MRM
+0
+383.000
+
+  Dep.: 6:48:0
+[addtrip]
+E8-TP-NWD
+0
+408.000
+
+  Dep.: 7:12:0
+[addtrip]
+E8-TP-MRM
+0
+432.000
+
+  Dep.: 7:39:0
+[addtrip]
+E8-TP-NWD
+0
+459.000
+
+  Dep.: 8:10:0
+[addtrip]
+E8-TP-MRM
+0
+490.000
+
+  Dep.: 8:35:0
+[addtrip]
+E8-TP-NWD
+0
+515.000
+
+  Dep.: 9:0:0
+[addtrip]
+E8-TP-MRM
+0
+540.000
+
+------------------------------------
+
+[newtour]
+07
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 6:28:0
+[addtrip]
+E8-TP-MRM
+0
+388.000
+
+  Dep.: 6:53:0
+[addtrip]
+E8-TP-NWD
+0
+413.000
+
+  Dep.: 7:16:0
+[addtrip]
+E8-TP-MRM
+0
+436.000
+
+  Dep.: 7:43:0
+[addtrip]
+E8-TP-NWD
+0
+463.000
+
+  Dep.: 8:15:0
+[addtrip]
+E8-TP-MRM
+0
+495.000
+
+------------------------------------
+
+[newtour]
+08
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 6:36:0
+[addtrip]
+E8-TP-MRM
+0
+396.000
+
+  Dep.: 7:3:0
+[addtrip]
+E8-TP-NWD
+0
+423.000
+
+  Dep.: 7:24:0
+[addtrip]
+E8-TP-MRM
+0
+444.000
+
+  Dep.: 7:53:0
+[addtrip]
+E8-TP-NWD
+0
+473.000
+
+  Dep.: 8:20:0
+[addtrip]
+E8-TP-MRM
+0
+500.000
+
+  Dep.: 8:45:0
+[addtrip]
+E8-TP-NWD
+0
+525.000
+
+  Dep.: 9:10:0
+[addtrip]
+E8-TP-MRM
+0
+550.000
+
+------------------------------------
+
+[newtour]
+09
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 6:44:0
+[addtrip]
+E8-TP-MRM
+0
+404.000
+
+  Dep.: 7:11:0
+[addtrip]
+E8-TP-NWD
+0
+431.000
+
+  Dep.: 7:32:0
+[addtrip]
+E8-TP-MRM
+0
+452.000
+
+  Dep.: 7:58:0
+[addtrip]
+E8-TP-NWD
+0
+478.000
+
+  Dep.: 8:25:0
+[addtrip]
+E8-TP-MRM
+0
+505.000
+
+------------------------------------
+
+[newtour]
+010
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 6:52:0
+[addtrip]
+E8-TP-MRM
+0
+412.000
+
+  Dep.: 7:19:0
+[addtrip]
+E8-TP-NWD
+0
+439.000
+
+  Dep.: 7:40:0
+[addtrip]
+E8-TP-MRM
+0
+460.000
+
+  Dep.: 8:4:0
+[addtrip]
+E8-TP-NWD
+0
+484.000
+
+  Dep.: 8:30:0
+[addtrip]
+E8-TP-MRM
+0
+510.000
+
+  Dep.: 8:55:0
+[addtrip]
+E8-TP-NWD
+0
+535.000
+
+  Dep.: 9:20:0
+[addtrip]
+E8-TP-MRM
+0
+560.000
+
+------------------------------------
+
+[newtour]
+011
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 7:0:0
+[addtrip]
+E8-TP-MRM
+0
+420.000
+
+  Dep.: 7:27:0
+[addtrip]
+E8-TP-NWD
+0
+447.000
+
+  Dep.: 7:50:0
+[addtrip]
+E8-TP-MRM
+0
+470.000
+
+------------------------------------
+
+[newtour]
+012
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 7:8:0
+[addtrip]
+E8-TP-MRM
+0
+428.000
+
+  Dep.: 7:35:0
+[addtrip]
+E8-TP-NWD
+0
+455.000
+
+  Dep.: 8:5:0
+[addtrip]
+E8-TP-MRM
+0
+485.000
+
+  Dep.: 8:25:0
+[addtrip]
+E8-TP-NWD
+0
+505.000
+
+  Dep.: 8:52:0
+[addtrip]
+E8-TP-MRM
+0
+532.000
+
+------------------------------------
+
+[newtour]
+013
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 15:38:0
+[addtrip]
+E8-TP-NWD
+0
+938.000
+
+  Dep.: 16:16:0
+[addtrip]
+E8-TP-MRM
+0
+976.000
+
+  Dep.: 16:42:0
+[addtrip]
+E8-TP-NWD
+0
+1002.000
+
+  Dep.: 17:20:0
+[addtrip]
+E8-TP-MRM
+0
+1040.000
+
+  Dep.: 17:46:0
+[addtrip]
+E8-TP-NWD
+0
+1066.000
+
+  Dep.: 18:24:0
+[addtrip]
+E8-TP-MRM
+0
+1104.000
+
+  Dep.: 18:50:0
+[addtrip]
+E8-TP-NWD
+0
+1130.000
+
+------------------------------------
+
+[newtour]
+014
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 15:46:0
+[addtrip]
+E8-TP-NWD
+0
+946.000
+
+  Dep.: 16:24:0
+[addtrip]
+E8-TP-MRM
+0
+984.000
+
+  Dep.: 16:50:0
+[addtrip]
+E8-TP-NWD
+0
+1010.000
+
+  Dep.: 17:28:0
+[addtrip]
+E8-TP-MRM
+0
+1048.000
+
+  Dep.: 17:54:0
+[addtrip]
+E8-TP-NWD
+0
+1074.000
+
+  Dep.: 18:32:0
+[addtrip]
+E8-TP-MRM
+0
+1112.000
+
+  Dep.: 19:0:0
+[addtrip]
+E8-TP-NWD
+0
+1140.000
+
+------------------------------------
+
+[newtour]
+015
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 15:54:0
+[addtrip]
+E8-TP-NWD
+0
+954.000
+
+  Dep.: 16:32:0
+[addtrip]
+E8-TP-MRM
+0
+992.000
+
+  Dep.: 16:58:0
+[addtrip]
+E8-TP-NWD
+0
+1018.000
+
+  Dep.: 17:36:0
+[addtrip]
+E8-TP-MRM
+0
+1056.000
+
+  Dep.: 18:2:0
+[addtrip]
+E8-TP-NWD
+0
+1082.000
+
+  Dep.: 18:40:0
+[addtrip]
+E8-TP-MRM
+0
+1120.000
+
+  Dep.: 19:10:0
+[addtrip]
+E8-TP-NWD
+0
+1150.000
+
+------------------------------------
+
+[newtour]
+016
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 16:2:0
+[addtrip]
+E8-TP-NWD
+0
+962.000
+
+  Dep.: 16:40:0
+[addtrip]
+E8-TP-MRM
+0
+1000.000
+
+  Dep.: 17:6:0
+[addtrip]
+E8-TP-NWD
+0
+1026.000
+
+  Dep.: 17:44:0
+[addtrip]
+E8-TP-MRM
+0
+1064.000
+
+  Dep.: 18:10:0
+[addtrip]
+E8-TP-NWD
+0
+1090.000
+
+  Dep.: 18:48:0
+[addtrip]
+E8-TP-MRM
+0
+1128.000
+
+  Dep.: 19:20:0
+[addtrip]
+E8-TP-NWD
+0
+1160.000
+
+------------------------------------
+
+[newtour]
+017
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 16:10:0
+[addtrip]
+E8-TP-NWD
+0
+970.000
+
+  Dep.: 16:48:0
+[addtrip]
+E8-TP-MRM
+0
+1008.000
+
+  Dep.: 17:14:0
+[addtrip]
+E8-TP-NWD
+0
+1034.000
+
+  Dep.: 17:52:0
+[addtrip]
+E8-TP-MRM
+0
+1072.000
+
+  Dep.: 18:18:0
+[addtrip]
+E8-TP-NWD
+0
+1098.000
+
+  Dep.: 18:56:0
+[addtrip]
+E8-TP-MRM
+0
+1136.000
+
+  Dep.: 19:30:0
+[addtrip]
+E8-TP-NWD
+0
+1170.000
+
+------------------------------------
+
+[newtour]
+018
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 16:18:0
+[addtrip]
+E8-TP-NWD
+0
+978.000
+
+  Dep.: 16:56:0
+[addtrip]
+E8-TP-MRM
+0
+1016.000
+
+  Dep.: 17:22:0
+[addtrip]
+E8-TP-NWD
+0
+1042.000
+
+  Dep.: 18:0:0
+[addtrip]
+E8-TP-MRM
+0
+1080.000
+
+  Dep.: 18:26:0
+[addtrip]
+E8-TP-NWD
+0
+1106.000
+
+  Dep.: 19:4:0
+[addtrip]
+E8-TP-MRM
+0
+1144.000
+
+  Dep.: 19:40:0
+[addtrip]
+E8-TP-NWD
+0
+1180.000
+
+------------------------------------
+
+[newtour]
+019
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 16:26:0
+[addtrip]
+E8-TP-NWD
+0
+986.000
+
+  Dep.: 17:4:0
+[addtrip]
+E8-TP-MRM
+0
+1024.000
+
+  Dep.: 17:30:0
+[addtrip]
+E8-TP-NWD
+0
+1050.000
+
+  Dep.: 18:8:0
+[addtrip]
+E8-TP-MRM
+0
+1088.000
+
+  Dep.: 18:34:0
+[addtrip]
+E8-TP-NWD
+0
+1114.000
+
+  Dep.: 19:12:0
+[addtrip]
+E8-TP-MRM
+0
+1152.000
+
+  Dep.: 19:50:0
+[addtrip]
+E8-TP-NWD
+0
+1190.000
+
+------------------------------------
+
+[newtour]
+020
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 16:34:0
+[addtrip]
+E8-TP-NWD
+0
+994.000
+
+  Dep.: 17:12:0
+[addtrip]
+E8-TP-MRM
+0
+1032.000
+
+  Dep.: 17:38:0
+[addtrip]
+E8-TP-NWD
+0
+1058.000
+
+  Dep.: 18:16:0
+[addtrip]
+E8-TP-MRM
+0
+1096.000
+
+  Dep.: 18:42:0
+[addtrip]
+E8-TP-NWD
+0
+1122.000
+
+  Dep.: 19:20:0
+[addtrip]
+E8-TP-MRM
+0
+1160.000
+
+  Dep.: 20:0:0
+[addtrip]
+E8-TP-NWD
+0
+1200.000
+

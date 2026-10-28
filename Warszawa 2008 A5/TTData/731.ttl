@@ -1,0 +1,489 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 01.08.2026
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 6:10:0
+[addtrip]
+731-TP-FSO
+0
+370.000
+
+  Dep.: 6:30:0
+[addtrip]
+731-TP-LOM
+0
+390.000
+
+  Dep.: 7:50:0
+[addtrip]
+731-TP-FSO
+0
+470.000
+
+  Dep.: 8:10:0
+[addtrip]
+731-TP-LOM-P
+0
+490.000
+
+  Dep.: 9:50:0
+[addtrip]
+731-TP-FSO
+0
+590.000
+
+  Dep.: 10:10:0
+[addtrip]
+731-TP-LOM-P
+0
+610.000
+
+  Dep.: 11:50:0
+[addtrip]
+731-TP-FSO
+0
+710.000
+
+  Dep.: 12:10:0
+[addtrip]
+731-TP-LOM-P
+0
+730.000
+
+  Dep.: 13:48:0
+[addtrip]
+731-TP-FSO
+0
+828.000
+
+  Dep.: 14:8:0
+[addtrip]
+731-TP-LOM-P
+0
+848.000
+
+  Dep.: 15:40:0
+[addtrip]
+731-TP-FSO
+0
+940.000
+
+  Dep.: 16:0:0
+[addtrip]
+731-TP-LOM-P
+0
+960.000
+
+  Dep.: 17:40:0
+[addtrip]
+731-TP-FSO
+0
+1060.000
+
+  Dep.: 18:0:0
+[addtrip]
+731-TP-LOM
+0
+1080.000
+
+  Dep.: 19:50:0
+[addtrip]
+731-TP-FSO
+0
+1190.000
+
+  Dep.: 20:10:0
+[addtrip]
+731-TP-LOM
+0
+1210.000
+
+  Dep.: 21:50:0
+[addtrip]
+731-TP-FSO
+0
+1310.000
+
+  Dep.: 22:10:0
+[addtrip]
+731-TP-LOM
+0
+1330.000
+
+------------------------------------
+
+[newtour]
+2
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 5:10:0
+[addtrip]
+731-TP-FSO
+0
+310.000
+
+  Dep.: 5:30:0
+[addtrip]
+731-TP-LOM
+0
+330.000
+
+  Dep.: 6:49:0
+[addtrip]
+731-TP-FSO
+0
+409.000
+
+  Dep.: 7:9:0
+[addtrip]
+731-TP-LOM-P
+0
+429.000
+
+  Dep.: 8:20:0
+[addtrip]
+731-TP-FSO
+0
+500.000
+
+  Dep.: 8:40:0
+[addtrip]
+731-TP-LOM-P
+0
+520.000
+
+  Dep.: 10:20:0
+[addtrip]
+731-TP-FSO
+0
+620.000
+
+  Dep.: 10:40:0
+[addtrip]
+731-TP-LOM-P
+0
+640.000
+
+  Dep.: 12:20:0
+[addtrip]
+731-TP-FSO
+0
+740.000
+
+  Dep.: 12:40:0
+[addtrip]
+731-TP-LOM-P
+0
+760.000
+
+  Dep.: 14:10:0
+[addtrip]
+731-TP-FSO
+0
+850.000
+
+  Dep.: 14:30:0
+[addtrip]
+731-TP-LOM-P
+0
+870.000
+
+  Dep.: 16:10:0
+[addtrip]
+731-TP-FSO
+0
+970.000
+
+  Dep.: 16:30:0
+[addtrip]
+731-TP-LOM-P
+0
+990.000
+
+  Dep.: 18:10:0
+[addtrip]
+731-TP-FSO
+0
+1090.000
+
+  Dep.: 18:30:0
+[addtrip]
+731-TP-LOM
+0
+1110.000
+
+  Dep.: 20:20:0
+[addtrip]
+731-TP-FSO
+0
+1220.000
+
+  Dep.: 20:40:0
+[addtrip]
+731-TP-LOM
+0
+1240.000
+
+  Dep.: 22:25:0
+[addtrip]
+731-TP-FSO
+0
+1345.000
+
+  Dep.: 22:45:0
+[addtrip]
+731-TP-LOM
+0
+1365.000
+
+------------------------------------
+
+[newtour]
+3
+R-13 Stalowa 18m
+287
+
+------------------------------------
+
+  Dep.: 4:32:0
+[addtrip]
+731-TP-FSO
+0
+272.000
+
+  Dep.: 4:52:0
+[addtrip]
+731-TP-LOM
+0
+292.000
+
+  Dep.: 6:29:0
+[addtrip]
+731-TP-FSO
+0
+389.000
+
+  Dep.: 6:49:0
+[addtrip]
+731-TP-LOM-P
+0
+409.000
+
+  Dep.: 8:50:0
+[addtrip]
+731-TP-FSO
+0
+530.000
+
+  Dep.: 9:10:0
+[addtrip]
+731-TP-LOM-P
+0
+550.000
+
+  Dep.: 10:50:0
+[addtrip]
+731-TP-FSO
+0
+650.000
+
+  Dep.: 11:10:0
+[addtrip]
+731-TP-LOM-P
+0
+670.000
+
+  Dep.: 12:50:0
+[addtrip]
+731-TP-FSO
+0
+770.000
+
+  Dep.: 13:10:0
+[addtrip]
+731-TP-LOM-P
+0
+790.000
+
+  Dep.: 14:55:0
+[addtrip]
+731-TP-FSO
+0
+895.000
+
+  Dep.: 15:15:0
+[addtrip]
+731-TP-LOM-P
+0
+915.000
+
+  Dep.: 16:55:0
+[addtrip]
+731-TP-FSO
+0
+1015.000
+
+  Dep.: 17:15:0
+[addtrip]
+731-TP-LOM-P
+0
+1035.000
+
+  Dep.: 19:20:0
+[addtrip]
+731-TP-FSO
+0
+1160.000
+
+  Dep.: 19:40:0
+[addtrip]
+731-TP-LOM-P
+0
+1180.000
+
+  Dep.: 21:20:0
+[addtrip]
+731-TP-FSO
+0
+1280.000
+
+  Dep.: 21:40:0
+[addtrip]
+731-TP-LOM-P
+0
+1300.000
+
+  Dep.: 23:5:0
+[addtrip]
+731-TP-FSO
+0
+1385.000
+
+  Dep.: 23:25:0
+[addtrip]
+731-TP-LOM-P
+0
+1405.000
+
+------------------------------------
+
+[newtour]
+04
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 7:29:0
+[addtrip]
+731-TP-FSO
+0
+449.000
+
+  Dep.: 7:49:0
+[addtrip]
+731-TP-LOM-P
+0
+469.000
+
+  Dep.: 9:20:0
+[addtrip]
+731-TP-FSO
+0
+560.000
+
+  Dep.: 9:40:0
+[addtrip]
+731-TP-LOM-P
+0
+580.000
+
+  Dep.: 11:20:0
+[addtrip]
+731-TP-FSO
+0
+680.000
+
+  Dep.: 11:40:0
+[addtrip]
+731-TP-LOM-P
+0
+700.000
+
+  Dep.: 13:20:0
+[addtrip]
+731-TP-FSO
+0
+800.000
+
+  Dep.: 13:40:0
+[addtrip]
+731-TP-LOM-P
+0
+820.000
+
+  Dep.: 15:25:0
+[addtrip]
+731-TP-FSO
+0
+925.000
+
+  Dep.: 15:45:0
+[addtrip]
+731-TP-LOM-P
+0
+945.000
+
+  Dep.: 17:25:0
+[addtrip]
+731-TP-FSO
+0
+1045.000
+
+  Dep.: 17:45:0
+[addtrip]
+731-TP-LOM
+0
+1065.000
+
+  Dep.: 18:52:0
+[addtrip]
+731-TP-FSO
+0
+1132.000
+
+  Dep.: 19:12:0
+[addtrip]
+731-TP-LOM
+0
+1152.000
+
+  Dep.: 20:50:0
+[addtrip]
+731-TP-FSO
+0
+1250.000
+
+  Dep.: 21:10:0
+[addtrip]
+731-TP-LOM
+0
+1270.000
+

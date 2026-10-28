@@ -1,0 +1,549 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 01.08.2026
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 5:20:0
+[addtrip]
+801-TP-PKO
+0
+320.000
+
+  Dep.: 6:0:0
+[addtrip]
+801-TP-FSO
+0
+360.000
+
+  Dep.: 6:20:0
+[addtrip]
+801-TP-PKO
+0
+380.000
+
+  Dep.: 6:55:0
+[addtrip]
+801-TP-FSO
+0
+415.000
+
+  Dep.: 7:15:0
+[addtrip]
+801-TP-PKO
+0
+435.000
+
+  Dep.: 8:0:0
+[addtrip]
+801-TP-FSO
+0
+480.000
+
+  Dep.: 8:20:0
+[addtrip]
+801-TP-PKO
+0
+500.000
+
+  Dep.: 9:0:0
+[addtrip]
+801-TP-FSO
+0
+540.000
+
+  Dep.: 9:20:0
+[addtrip]
+801-TP-PKO
+0
+560.000
+
+  Dep.: 10:0:0
+[addtrip]
+801-TP-FSO
+0
+600.000
+
+  Dep.: 10:20:0
+[addtrip]
+801-TP-PKO
+0
+620.000
+
+  Dep.: 11:0:0
+[addtrip]
+801-TP-FSO
+0
+660.000
+
+  Dep.: 11:20:0
+[addtrip]
+801-TP-PKO
+0
+680.000
+
+  Dep.: 12:0:0
+[addtrip]
+801-TP-FSO
+0
+720.000
+
+  Dep.: 12:20:0
+[addtrip]
+801-TP-PKO
+0
+740.000
+
+  Dep.: 13:0:0
+[addtrip]
+801-TP-FSO
+0
+780.000
+
+  Dep.: 13:20:0
+[addtrip]
+801-TP-PKO
+0
+800.000
+
+  Dep.: 14:15:0
+[addtrip]
+801-TP-FSO
+0
+855.000
+
+  Dep.: 14:35:0
+[addtrip]
+801-TP-PKO
+0
+875.000
+
+  Dep.: 15:0:0
+[addtrip]
+801-TP-FSO
+0
+900.000
+
+  Dep.: 15:20:0
+[addtrip]
+801-TP-PKO
+0
+920.000
+
+  Dep.: 16:0:0
+[addtrip]
+801-TP-FSO
+0
+960.000
+
+  Dep.: 16:20:0
+[addtrip]
+801-TP-PKO
+0
+980.000
+
+  Dep.: 17:0:0
+[addtrip]
+801-TP-FSO
+0
+1020.000
+
+  Dep.: 17:20:0
+[addtrip]
+801-TP-PKO
+0
+1040.000
+
+  Dep.: 18:0:0
+[addtrip]
+801-TP-FSO
+0
+1080.000
+
+  Dep.: 18:20:0
+[addtrip]
+801-TP-PKO
+0
+1100.000
+
+  Dep.: 19:0:0
+[addtrip]
+801-TP-FSO
+0
+1140.000
+
+  Dep.: 19:20:0
+[addtrip]
+801-TP-PKO
+0
+1160.000
+
+  Dep.: 20:0:0
+[addtrip]
+801-TP-FSO
+0
+1200.000
+
+  Dep.: 20:20:0
+[addtrip]
+801-TP-PKO
+0
+1220.000
+
+  Dep.: 21:0:0
+[addtrip]
+801-TP-FSO
+0
+1260.000
+
+  Dep.: 21:20:0
+[addtrip]
+801-TP-PKO
+0
+1280.000
+
+  Dep.: 22:0:0
+[addtrip]
+801-TP-FSO
+0
+1320.000
+
+  Dep.: 22:20:0
+[addtrip]
+801-TP-PKO
+0
+1340.000
+
+------------------------------------
+
+[newtour]
+2
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 5:50:0
+[addtrip]
+801-TP-PKO
+0
+350.000
+
+  Dep.: 6:35:0
+[addtrip]
+801-TP-FSO
+0
+395.000
+
+  Dep.: 6:55:0
+[addtrip]
+801-TP-PKO
+0
+415.000
+
+  Dep.: 7:35:0
+[addtrip]
+801-TP-FSO
+0
+455.000
+
+  Dep.: 7:55:0
+[addtrip]
+801-TP-PKO
+0
+475.000
+
+  Dep.: 8:30:0
+[addtrip]
+801-TP-FSO
+0
+510.000
+
+  Dep.: 8:50:0
+[addtrip]
+801-TP-PKO
+0
+530.000
+
+  Dep.: 9:30:0
+[addtrip]
+801-TP-FSO
+0
+570.000
+
+  Dep.: 9:50:0
+[addtrip]
+801-TP-PKO
+0
+590.000
+
+  Dep.: 10:30:0
+[addtrip]
+801-TP-FSO
+0
+630.000
+
+  Dep.: 10:50:0
+[addtrip]
+801-TP-PKO
+0
+650.000
+
+  Dep.: 11:30:0
+[addtrip]
+801-TP-FSO
+0
+690.000
+
+  Dep.: 11:50:0
+[addtrip]
+801-TP-PKO
+0
+710.000
+
+  Dep.: 12:30:0
+[addtrip]
+801-TP-FSO
+0
+750.000
+
+  Dep.: 12:50:0
+[addtrip]
+801-TP-PKO
+0
+770.000
+
+  Dep.: 13:30:0
+[addtrip]
+801-TP-FSO
+0
+810.000
+
+  Dep.: 13:50:0
+[addtrip]
+801-TP-PKO
+0
+830.000
+
+  Dep.: 14:30:0
+[addtrip]
+801-TP-FSO
+0
+870.000
+
+  Dep.: 14:50:0
+[addtrip]
+801-TP-PKO
+0
+890.000
+
+  Dep.: 15:15:0
+[addtrip]
+801-TP-FSO
+0
+915.000
+
+  Dep.: 15:35:0
+[addtrip]
+801-TP-PKO
+0
+935.000
+
+  Dep.: 16:15:0
+[addtrip]
+801-TP-FSO
+0
+975.000
+
+  Dep.: 16:35:0
+[addtrip]
+801-TP-PKO
+0
+995.000
+
+  Dep.: 17:30:0
+[addtrip]
+801-TP-FSO
+0
+1050.000
+
+  Dep.: 17:50:0
+[addtrip]
+801-TP-PKO
+0
+1070.000
+
+  Dep.: 18:38:0
+[addtrip]
+801-TP-FSO
+0
+1118.000
+
+  Dep.: 18:58:0
+[addtrip]
+801-TP-PKO
+0
+1138.000
+
+  Dep.: 19:30:0
+[addtrip]
+801-TP-FSO
+0
+1170.000
+
+  Dep.: 19:50:0
+[addtrip]
+801-TP-PKO
+0
+1190.000
+
+  Dep.: 20:30:0
+[addtrip]
+801-TP-FSO
+0
+1230.000
+
+  Dep.: 20:50:0
+[addtrip]
+801-TP-PKO
+0
+1250.000
+
+  Dep.: 21:30:0
+[addtrip]
+801-TP-FSO
+0
+1290.000
+
+  Dep.: 21:50:0
+[addtrip]
+801-TP-PKO
+0
+1310.000
+
+------------------------------------
+
+[newtour]
+03
+ITS 18m
+287
+
+------------------------------------
+
+  Dep.: 4:55:0
+[addtrip]
+801-TP-PKO
+0
+295.000
+
+  Dep.: 5:15:0
+[addtrip]
+801-TP-FSO
+0
+315.000
+
+  Dep.: 5:35:0
+[addtrip]
+801-TP-PKO
+0
+335.000
+
+  Dep.: 6:15:0
+[addtrip]
+801-TP-FSO
+0
+375.000
+
+  Dep.: 6:35:0
+[addtrip]
+801-TP-PKO
+0
+395.000
+
+------------------------------------
+
+[newtour]
+04
+ITS 18m
+287
+
+------------------------------------
+
+  Dep.: 14:15:0
+[addtrip]
+801-TP-PKO
+0
+855.000
+
+  Dep.: 14:45:0
+[addtrip]
+801-TP-FSO
+0
+885.000
+
+  Dep.: 15:5:0
+[addtrip]
+801-TP-PKO
+0
+905.000
+
+  Dep.: 15:30:0
+[addtrip]
+801-TP-FSO
+0
+930.000
+
+  Dep.: 15:50:0
+[addtrip]
+801-TP-PKO
+0
+950.000
+
+  Dep.: 16:30:0
+[addtrip]
+801-TP-FSO
+0
+990.000
+
+  Dep.: 16:50:0
+[addtrip]
+801-TP-PKO
+0
+1010.000
+
+  Dep.: 17:15:0
+[addtrip]
+801-TP-FSO
+0
+1035.000
+
+  Dep.: 17:35:0
+[addtrip]
+801-TP-PKO
+0
+1055.000
+
+  Dep.: 18:17:0
+[addtrip]
+801-TP-FSO
+0
+1097.000
+
+  Dep.: 18:37:0
+[addtrip]
+801-TP-PKO
+0
+1117.000
+

@@ -1,0 +1,192 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 01.08.2026
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+R-13 Stalowa 12m (W)
+287
+
+------------------------------------
+
+  Dep.: 5:30:0
+[addtrip]
+735-TP-ZEG
+0
+330.000
+
+  Dep.: 5:57:0
+[addtrip]
+735-TP-FSO
+0
+357.000
+
+  Dep.: 6:5:0
+[addtrip]
+705-TP-BIA
+0
+365.000
+
+  Dep.: 7:42:0
+[addtrip]
+735-TP-FSO
+0
+462.000
+
+  Dep.: 7:50:0
+[addtrip]
+705-TP-BIA
+0
+470.000
+
+  Dep.: 8:37:0
+[addtrip]
+735-TP-FSO
+0
+517.000
+
+  Dep.: 8:45:0
+[addtrip]
+705-TP-BIA
+0
+525.000
+
+  Dep.: 9:37:0
+[addtrip]
+735-TP-FSO
+0
+577.000
+
+  Dep.: 9:45:0
+[addtrip]
+705-TP-BIA
+0
+585.000
+
+  Dep.: 10:37:0
+[addtrip]
+735-TP-FSO
+0
+637.000
+
+  Dep.: 10:45:0
+[addtrip]
+705-TP-BIA
+0
+645.000
+
+  Dep.: 11:37:0
+[addtrip]
+735-TP-FSO
+0
+697.000
+
+  Dep.: 11:45:0
+[addtrip]
+705-TP-BIA
+0
+705.000
+
+  Dep.: 12:37:0
+[addtrip]
+735-TP-FSO
+0
+757.000
+
+  Dep.: 12:45:0
+[addtrip]
+705-TP-BIA
+0
+765.000
+
+  Dep.: 13:37:0
+[addtrip]
+735-TP-FSO
+0
+817.000
+
+  Dep.: 13:45:0
+[addtrip]
+705-TP-BIA
+0
+825.000
+
+  Dep.: 14:37:0
+[addtrip]
+735-TP-FSO
+0
+877.000
+
+  Dep.: 14:45:0
+[addtrip]
+705-TP-BIA
+0
+885.000
+
+  Dep.: 15:40:0
+[addtrip]
+735-TP-FSO
+0
+940.000
+
+  Dep.: 15:48:0
+[addtrip]
+705-TP-BIA
+0
+948.000
+
+  Dep.: 16:40:0
+[addtrip]
+735-TP-FSO
+0
+1000.000
+
+  Dep.: 16:48:0
+[addtrip]
+705-TP-BIA
+0
+1008.000
+
+  Dep.: 17:40:0
+[addtrip]
+735-TP-FSO
+0
+1060.000
+
+  Dep.: 17:48:0
+[addtrip]
+705-TP-BIA
+0
+1068.000
+
+  Dep.: 18:37:0
+[addtrip]
+735-TP-FSO
+0
+1117.000
+
+  Dep.: 18:45:0
+[addtrip]
+705-TP-BIA
+0
+1125.000
+
+  Dep.: 19:37:0
+[addtrip]
+735-TP-FSO
+0
+1177.000
+
+  Dep.: 19:45:0
+[addtrip]
+705-TP-BIA
+0
+1185.000
+

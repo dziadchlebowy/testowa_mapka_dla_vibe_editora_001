@@ -1,0 +1,204 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 01.08.2026
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+R-13 Stalowa 12m
+287
+
+------------------------------------
+
+  Dep.: 4:40:0
+[addtrip]
+804-TP-LOM
+0
+280.000
+
+  Dep.: 5:17:0
+[addtrip]
+804-TP-FSO
+0
+317.000
+
+  Dep.: 5:25:0
+[addtrip]
+804-TP-LOM
+0
+325.000
+
+  Dep.: 6:7:0
+[addtrip]
+804-TP-FSO
+0
+367.000
+
+  Dep.: 6:15:0
+[addtrip]
+804-TP-LOM
+0
+375.000
+
+  Dep.: 6:52:0
+[addtrip]
+804-TP-FSO
+0
+412.000
+
+  Dep.: 7:0:0
+[addtrip]
+804-TP-LOM-P
+0
+420.000
+
+  Dep.: 7:52:0
+[addtrip]
+804-TP-FSO
+0
+472.000
+
+  Dep.: 8:0:0
+[addtrip]
+804-TP-LOM-P
+0
+480.000
+
+  Dep.: 9:22:0
+[addtrip]
+804-TP-FSO
+0
+562.000
+
+  Dep.: 9:30:0
+[addtrip]
+804-TP-LOM-P
+0
+570.000
+
+  Dep.: 10:22:0
+[addtrip]
+804-TP-FSO
+0
+622.000
+
+  Dep.: 10:30:0
+[addtrip]
+804-TP-LOM-P
+0
+630.000
+
+  Dep.: 11:52:0
+[addtrip]
+804-TP-FSO
+0
+712.000
+
+  Dep.: 12:0:0
+[addtrip]
+804-TP-LOM-P
+0
+720.000
+
+  Dep.: 12:52:0
+[addtrip]
+804-TP-FSO
+0
+772.000
+
+  Dep.: 13:0:0
+[addtrip]
+804-TP-LOM-P
+0
+780.000
+
+  Dep.: 13:57:0
+[addtrip]
+804-TP-FSO
+0
+837.000
+
+  Dep.: 14:5:0
+[addtrip]
+804-TP-LOM-P
+0
+845.000
+
+  Dep.: 15:10:0
+[addtrip]
+804-TP-FSO
+0
+910.000
+
+  Dep.: 15:18:0
+[addtrip]
+804-TP-LOM-P
+0
+918.000
+
+  Dep.: 16:10:0
+[addtrip]
+804-TP-FSO
+0
+970.000
+
+  Dep.: 16:18:0
+[addtrip]
+804-TP-LOM-P
+0
+978.000
+
+  Dep.: 17:10:0
+[addtrip]
+804-TP-FSO
+0
+1030.000
+
+  Dep.: 17:18:0
+[addtrip]
+804-TP-LOM
+0
+1038.000
+
+  Dep.: 18:27:0
+[addtrip]
+804-TP-FSO
+0
+1107.000
+
+  Dep.: 18:35:0
+[addtrip]
+804-TP-LOM
+0
+1115.000
+
+  Dep.: 19:22:0
+[addtrip]
+804-TP-FSO
+0
+1162.000
+
+  Dep.: 19:30:0
+[addtrip]
+804-TP-LOM
+0
+1170.000
+
+  Dep.: 21:12:0
+[addtrip]
+804-TP-FSO
+0
+1272.000
+
+  Dep.: 21:20:0
+[addtrip]
+804-TP-LOM
+0
+1280.000
+

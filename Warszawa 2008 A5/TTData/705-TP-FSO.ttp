@@ -1,0 +1,99 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 01.08.2026
+
+[trip]
+705_TP-FSO
+Zeran FSO
+705
+
+.........................
+        Stations
+.........................
+
+[station]
+1547545
+12
+Plochocinska
+104
+6.075
+351.327
+38.597
+7.000
+
+[station]
+1547568
+43
+Konwaliowa
+110
+1.939
+1034.637
+19.047
+5.000
+
+[station]
+1564619
+51
+Kanal Zeranski NZ
+114
+6.333
+1486.548
+42.958
+2.500
+
+[station]
+1564621
+60
+EC Zeran NZ
+126
+6.304
+2208.413
+21.823
+5.000
+
+[station]
+1575711
+93
+Zeran FSO p.
+138
+3.080
+2822.335
+5.041
+100.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+4.000
+
+[profile_man_arr_time]
+0
+0.000
+[profile_otherstopping]
+0
+1
+[profile_man_arr_time]
+1
+1.000
+[profile_otherstopping]
+1
+1
+[profile_man_arr_time]
+2
+2.000
+[profile_man_arr_time]
+3
+3.000
+[profile_man_arr_time]
+4
+4.000
+[profile_otherstopping]
+4
+4

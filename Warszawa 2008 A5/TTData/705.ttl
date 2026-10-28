@@ -1,0 +1,360 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 01.08.2026
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+R-13 Stalowa 18m (W)
+287
+
+------------------------------------
+
+  Dep.: 5:5:0
+[addtrip]
+705-TP-RYN
+0
+305.000
+
+  Dep.: 5:10:0
+[addtrip]
+705-TP-FSO
+0
+310.000
+
+  Dep.: 5:15:0
+[addtrip]
+705-TP-BIA
+0
+315.000
+
+  Dep.: 5:37:0
+[addtrip]
+705-TP-FSO
+0
+337.000
+
+  Dep.: 5:45:0
+[addtrip]
+705-TP-BIA
+0
+345.000
+
+  Dep.: 5:50:0
+[addtrip]
+705-TP-FSO
+0
+350.000
+
+  Dep.: 5:55:0
+[addtrip]
+705-TP-BIA
+0
+355.000
+
+  Dep.: 6:22:0
+[addtrip]
+705-TP-FSO
+0
+382.000
+
+  Dep.: 6:30:0
+[addtrip]
+705-TP-BIA
+0
+390.000
+
+  Dep.: 6:37:0
+[addtrip]
+705-TP-FSO
+0
+397.000
+
+  Dep.: 6:45:0
+[addtrip]
+705-TP-RYN
+0
+405.000
+
+  Dep.: 7:2:0
+[addtrip]
+705-TP-FSO
+0
+422.000
+
+  Dep.: 7:10:0
+[addtrip]
+705-TP-RYN
+0
+430.000
+
+  Dep.: 7:27:0
+[addtrip]
+705-TP-FSO
+0
+447.000
+
+  Dep.: 7:35:0
+[addtrip]
+705-TP-RYN
+0
+455.000
+
+  Dep.: 8:7:0
+[addtrip]
+705-TP-FSO
+0
+487.000
+
+  Dep.: 8:15:0
+[addtrip]
+705-TP-BIA
+0
+495.000
+
+  Dep.: 9:7:0
+[addtrip]
+705-TP-FSO
+0
+547.000
+
+  Dep.: 9:15:0
+[addtrip]
+705-TP-RYN
+0
+555.000
+
+  Dep.: 10:7:0
+[addtrip]
+705-TP-FSO
+0
+607.000
+
+  Dep.: 10:15:0
+[addtrip]
+705-TP-BIA
+0
+615.000
+
+  Dep.: 11:7:0
+[addtrip]
+705-TP-FSO
+0
+667.000
+
+  Dep.: 11:15:0
+[addtrip]
+705-TP-RYN
+0
+675.000
+
+  Dep.: 12:7:0
+[addtrip]
+705-TP-FSO
+0
+727.000
+
+  Dep.: 12:15:0
+[addtrip]
+705-TP-BIA
+0
+735.000
+
+  Dep.: 13:7:0
+[addtrip]
+705-TP-FSO
+0
+787.000
+
+  Dep.: 13:15:0
+[addtrip]
+705-TP-RYN
+0
+795.000
+
+  Dep.: 14:17:0
+[addtrip]
+705-TP-FSO
+0
+857.000
+
+  Dep.: 14:25:0
+[addtrip]
+705-TP-BIA
+0
+865.000
+
+  Dep.: 14:55:0
+[addtrip]
+705-TP-FSO
+0
+895.000
+
+  Dep.: 15:3:0
+[addtrip]
+705-TP-RYN
+0
+903.000
+
+  Dep.: 15:25:0
+[addtrip]
+705-TP-FSO
+0
+925.000
+
+  Dep.: 15:33:0
+[addtrip]
+705-TP-BIA
+0
+933.000
+
+  Dep.: 15:55:0
+[addtrip]
+705-TP-FSO
+0
+955.000
+
+  Dep.: 16:3:0
+[addtrip]
+705-TP-RYN
+0
+963.000
+
+  Dep.: 16:25:0
+[addtrip]
+705-TP-FSO
+0
+985.000
+
+  Dep.: 16:33:0
+[addtrip]
+705-TP-BIA
+0
+993.000
+
+  Dep.: 16:55:0
+[addtrip]
+705-TP-FSO
+0
+1015.000
+
+  Dep.: 17:3:0
+[addtrip]
+705-TP-RYN
+0
+1023.000
+
+  Dep.: 17:25:0
+[addtrip]
+705-TP-FSO
+0
+1045.000
+
+  Dep.: 17:33:0
+[addtrip]
+705-TP-BIA
+0
+1053.000
+
+  Dep.: 17:57:0
+[addtrip]
+705-TP-FSO
+0
+1077.000
+
+  Dep.: 18:5:0
+[addtrip]
+705-TP-RYN
+0
+1085.000
+
+  Dep.: 18:17:0
+[addtrip]
+705-TP-FSO
+0
+1097.000
+
+  Dep.: 18:25:0
+[addtrip]
+705-TP-BIA
+0
+1105.000
+
+  Dep.: 19:7:0
+[addtrip]
+705-TP-FSO
+0
+1147.000
+
+  Dep.: 19:15:0
+[addtrip]
+705-TP-RYN
+0
+1155.000
+
+  Dep.: 20:7:0
+[addtrip]
+705-TP-FSO
+0
+1207.000
+
+  Dep.: 20:15:0
+[addtrip]
+705-TP-BIA
+0
+1215.000
+
+  Dep.: 20:37:0
+[addtrip]
+705-TP-FSO
+0
+1237.000
+
+  Dep.: 20:45:0
+[addtrip]
+705-TP-BIA
+0
+1245.000
+
+  Dep.: 21:37:0
+[addtrip]
+705-TP-FSO
+0
+1297.000
+
+  Dep.: 21:45:0
+[addtrip]
+705-TP-RYN
+0
+1305.000
+
+  Dep.: 22:37:0
+[addtrip]
+705-TP-FSO
+0
+1357.000
+
+  Dep.: 22:45:0
+[addtrip]
+705-TP-BIA
+0
+1365.000
+
+  Dep.: 23:37:0
+[addtrip]
+705-TP-FSO
+0
+1417.000
+
+  Dep.: 23:45:0
+[addtrip]
+705-TP-BIA
+0
+1425.000
+

@@ -1,0 +1,92 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 01.08.2026
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+1
+R-13 Stalowa 12m (W)
+287
+
+------------------------------------
+
+  Dep.: 23:10:0
+[addtrip]
+N63-TP-FSO
+0
+1390.000
+
+  Dep.: 23:40:0
+[addtrip]
+N63-TP-SZL
+0
+1420.000
+
+  Dep.: 24:10:0
+[addtrip]
+N63-TP-FSO
+0
+1450.000
+
+  Dep.: 24:40:0
+[addtrip]
+N63-TP-SZL
+0
+1480.000
+
+  Dep.: 25:10:0
+[addtrip]
+N63-TP-FSO
+0
+1510.000
+
+  Dep.: 25:40:0
+[addtrip]
+N63-TP-SZL
+0
+1540.000
+
+  Dep.: 26:10:0
+[addtrip]
+N63-TP-FSO
+0
+1570.000
+
+  Dep.: 26:40:0
+[addtrip]
+N63-TP-SZL
+0
+1600.000
+
+  Dep.: 27:10:0
+[addtrip]
+N63-TP-FSO
+0
+1630.000
+
+  Dep.: 27:40:0
+[addtrip]
+N63-TP-SZL
+0
+1660.000
+
+  Dep.: 28:10:0
+[addtrip]
+N63-TP-FSO
+0
+1690.000
+
+  Dep.: 28:40:0
+[addtrip]
+N63-TP-SZL
+0
+1720.000
+
