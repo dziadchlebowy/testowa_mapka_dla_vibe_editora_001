@@ -43,5 +43,22 @@
     "status": "archived",
     "createdAt": 1793232843757,
     "archivedAt": 1793232868612
+  },
+  {
+    "id": "3787c64f-aefd-4bd6-8ab4-9006b0714370",
+    "title": "Napraw dziury w ścieżkach",
+    "kind": "text",
+    "data": {
+      "text": "Połącz jezdnie, które mają krótkie przerwy w ścieżkach (path), żeby upłynnić ruch. Połącz to płynnymi, doprofilowanymi zakrętami z zerową wartością skew.\nPinezka w punkcie wyznacza jedną z lokalizacji takich miejsc."
+    },
+    "tileRange": null,
+    "pin": {
+      "x": -9.022,
+      "y": -29.87
+    },
+    "attachment": null,
+    "checked": true,
+    "status": "active",
+    "createdAt": 1793314136717
   }
 ]
