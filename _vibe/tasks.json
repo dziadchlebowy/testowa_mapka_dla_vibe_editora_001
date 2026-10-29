@@ -30,20 +30,6 @@
     "attachment": null
   },
   {
-    "id": "a3d1b313-ef1b-4ea9-8952-e7176a5be3e3",
-    "title": "Jezdnie",
-    "kind": "text",
-    "data": {
-      "text": "Dokończ spliny mapy (Warszawa, rejony Nowodworów, Tarchomina, Żerania, Żoliborza) - zgodnie ze stanem na późny 2008 rok. Popraw miejsca gdzie spliny ze ścieżkami [path] się urywają, powinny być odpowiednio połączone."
-    },
-    "tileRange": null,
-    "pin": null,
-    "attachment": null,
-    "checked": false,
-    "status": "active",
-    "createdAt": 1793232763839
-  },
-  {
     "id": "e8f0d1c9-2eee-4808-b422-704c735a5533",
     "title": "Domki i działki",
     "kind": "text",
@@ -53,8 +39,9 @@
     "tileRange": null,
     "pin": null,
     "attachment": null,
-    "checked": true,
-    "status": "active",
-    "createdAt": 1793232843757
+    "checked": false,
+    "status": "archived",
+    "createdAt": 1793232843757,
+    "archivedAt": 1793232868612
   }
 ]
