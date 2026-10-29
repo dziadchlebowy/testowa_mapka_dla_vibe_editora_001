@@ -1,0 +1,82 @@
+File created with StreetCreator v1.000
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+0.000
+0.000
+0.100
+0.100
+
+[heightprofile]
+0.000
+4.000
+0.250
+0.250
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+str_gehweg02.bmp
+
+[texture]
+str_gruenstreifen.bmp
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+Grass strip:
+
+[profile]
+1
+
+[profilepnt]
+0.000
+0.100
+0.995
+0.167
+
+[profilepnt]
+0.000
+0.250
+0.975
+0.167
+
+Grass strip:
+
+[profile]
+1
+
+[profilepnt]
+0.000
+0.250
+0.975
+0.167
+
+[profilepnt]
+2.600
+0.250
+0.305
+0.167
+
+Grass strip:
+
+[profile]
+0
+
+[profilepnt]
+2.600
+0.250
+0.975
+0.167
+
+[profilepnt]
+4.000
+0.250
+0.600
+0.167

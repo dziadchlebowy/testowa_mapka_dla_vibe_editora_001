@@ -1,0 +1,44 @@
+File created with StreetCreator v1.000
+Original from "ADDON SimpleStreets"
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+0.400
+4.150
+0.100
+0.100
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+str_knochenpflaster.bmp
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+Lane:
+
+[profile]
+0
+
+[profilepnt]
+0.400
+0.100
+0.700
+0.167
+
+[profilepnt]
+4.150
+0.100
+0.100
+0.167
+
+---------------------------
+          Paths
+---------------------------

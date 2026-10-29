@@ -1,0 +1,39 @@
+File created with StreetCreator v1.000
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.200
+0.200
+0.250
+0.250
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+peron.png
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+Plytka azylowa pojedyncza:
+
+[profile]
+0
+
+[profilepnt]
+-0.200
+0.250
+0.000
+2.550
+
+[profilepnt]
+0.200
+0.250
+1.000
+2.550

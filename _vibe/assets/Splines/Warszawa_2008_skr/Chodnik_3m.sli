@@ -1,0 +1,39 @@
+File created with StreetCreator v1.000
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-1.500
+1.500
+0.250
+0.250
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+str_gehweg02.bmp
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+Chodnik 3m:
+
+[profile]
+0
+
+[profilepnt]
+-1.500
+0.250
+0.255
+0.200
+
+[profilepnt]
+1.500
+0.250
+0.742
+0.200

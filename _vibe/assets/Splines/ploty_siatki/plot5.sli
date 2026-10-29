@@ -1,0 +1,101 @@
+=== Created with Simple Spline Editor ===
+=== Author:  ===
+
+=== Height profiles ===
+== Freiraum ==
+== Breite: 0 Meter ==
+[heightprofile]
+-0.01
+-0.01
+0
+1.8
+
+==  ==
+== Breite: 0,02 Meter ==
+[heightprofile]
+-0.01
+0.01
+1.8
+1.8
+
+==  ==
+== Breite: 0 Meter ==
+[heightprofile]
+0.01
+0.01
+1.8
+0
+
+=== Textures ===
+== 0 ==
+[texture]
+plot.png
+[matl]
+plot.png
+0
+[matl_alpha]
+1
+
+== 1 ==
+[texture]
+plot_bok.png
+[matl]
+plot_bok.png
+0
+[matl_alpha]
+1
+
+== 2 ==
+[texture]
+plot1.png
+[matl]
+plot1.png
+0
+[matl_alpha]
+1
+
+== 3 ==
+[texture]
+plot2.png
+[matl]
+plot2.png
+0
+[matl_alpha]
+1
+
+=== Textur wrappings ===
+== START ==
+[profile]
+2
+== FROM ==
+[profilepnt]
+-0.01
+0
+0
+0.2
+== TO ==
+[profilepnt]
+-0.01
+1.8
+1
+0.2
+== END ==
+
+== START ==
+[profile]
+3
+== FROM ==
+[profilepnt]
+0.01
+1.8
+0
+0.2
+== TO ==
+[profilepnt]
+0.01
+0
+1
+0.2
+== END ==
+
+=== Pathes ===

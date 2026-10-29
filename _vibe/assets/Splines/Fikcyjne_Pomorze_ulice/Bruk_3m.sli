@@ -1,0 +1,39 @@
+File created with StreetCreator v1.000
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-1.500
+1.500
+0.100
+0.100
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+str_kopfgr01.bmp
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+Bruk 3 m:
+
+[profile]
+0
+
+[profilepnt]
+-1.500
+0.100
+0.750
+0.167
+
+[profilepnt]
+1.500
+0.100
+0.039
+0.167

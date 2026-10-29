@@ -1,0 +1,43 @@
+File created with StreetCreator v1.000
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-2.750
+0.000
+0.100
+0.100
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+zebra2.png
+
+[matl]
+zebra2.png
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+[profile]
+0
+
+[profilepnt]
+-4.000
+0.100
+0.995
+0.167
+
+[profilepnt]
+0.000
+0.100
+0.005
+0.167

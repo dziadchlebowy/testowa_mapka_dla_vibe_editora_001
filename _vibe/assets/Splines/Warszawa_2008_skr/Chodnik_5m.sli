@@ -1,0 +1,45 @@
+File created with StreetCreator v1.000
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-2.500
+2.350
+0.250
+0.250
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+str_side1.bmp
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+Chodnik 5m:
+
+[profile]
+0
+
+[profilepnt]
+-2.500
+0.250
+0.005
+0.200
+
+[profilepnt]
+2.350
+0.250
+0.884
+0.200
+
+[profilepnt]
+2.500
+0.250
+0.854
+0.200

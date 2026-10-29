@@ -1,0 +1,45 @@
+File created with StreetCreator v1.000
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.350
+0.350
+0.103
+0.103
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+linia_trojkat.png
+
+[matl]
+linia_trojkat.png
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+Linia trojkat:
+
+[profile]
+0
+
+[profilepnt]
+-0.350
+0.103
+0.005
+0.315
+
+[profilepnt]
+0.350
+0.103
+0.958
+0.315

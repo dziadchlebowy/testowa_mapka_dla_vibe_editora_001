@@ -1,0 +1,45 @@
+File created with StreetCreator v1.000
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.060
+0.060
+0.110
+0.110
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+linia_przerywana.png
+
+[matl]
+linia_przerywana.png
+
+[matl_alpha]
+1
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+Linia:
+
+[profile]
+0
+
+[profilepnt]
+-0.130
+0.105
+0.005
+0.166
+
+[profilepnt]
+0.130
+0.105
+0.995
+0.166

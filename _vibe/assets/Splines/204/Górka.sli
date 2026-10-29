@@ -1,0 +1,91 @@
+=== Created with Simple Spline Editor ===
+=== Author: dbogusz2 ===
+
+=== Height profiles ===
+== Gehweg ==
+== Breite: 2,5 Meter ==
+[heightprofile]
+-3.75
+-1.25
+0.25
+1.75
+
+== Gehweg ==
+== Breite: 2,5 Meter ==
+[heightprofile]
+-1.25
+1.25
+1.75
+1.75
+
+== Gehweg ==
+== Breite: 2,5 Meter ==
+[heightprofile]
+1.25
+3.75
+1.75
+0.25
+
+=== Textures ===
+== 0 ==
+[texture]
+gras1.bmp
+[matl]
+gras1.bmp
+0
+[matl_alpha]
+2
+
+=== Textur wrappings ===
+== START ==
+[profile]
+0
+== FROM ==
+[profilepnt]
+-3.75
+0.25
+0
+0.2
+== TO ==
+[profilepnt]
+-1.25
+1.75
+1
+0.2
+== END ==
+
+== START ==
+[profile]
+0
+== FROM ==
+[profilepnt]
+-1.25
+1.75
+0
+0.2
+== TO ==
+[profilepnt]
+1.25
+1.75
+1
+0.2
+== END ==
+
+== START ==
+[profile]
+0
+== FROM ==
+[profilepnt]
+1.25
+1.75
+0
+0.2
+== TO ==
+[profilepnt]
+3.75
+0.25
+1
+0.2
+== END ==
+
+=== Pathes ===

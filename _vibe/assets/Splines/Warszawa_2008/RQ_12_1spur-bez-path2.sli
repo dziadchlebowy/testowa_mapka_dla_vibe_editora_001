@@ -1,0 +1,41 @@
+File created with StreetCreator v1.000
+Original from "ADDON SimpleStreets"
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+0.000
+6.000
+0.100
+0.100
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+str_asphdrk.bmp
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+Grass strip:
+
+[profile]
+0
+
+[profilepnt]
+0.000
+0.100
+0.033
+0.167
+
+[profilepnt]
+6.000
+0.100
+0.995
+0.167
+

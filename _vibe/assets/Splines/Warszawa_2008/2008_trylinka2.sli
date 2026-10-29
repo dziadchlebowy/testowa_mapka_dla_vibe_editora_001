@@ -1,0 +1,20 @@
+	Spline file created using OMSI Spline Tools (c) 2017 Michal Stobienia
+
+
+[texture]
+trylinka.bmp
+
+[profile]
+0
+
+[profilepnt]
+-3.350
+0.100
+1.995
+0.334
+
+[profilepnt]
+3.350
+0.100
+0.005
+0.334

@@ -1,0 +1,39 @@
+File created with StreetCreator v1.000
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.060
+0.060
+0.110
+0.110
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+linia_ciagla.bmp
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+Linia:
+
+[profile]
+0
+
+[profilepnt]
+-0.130
+0.105
+0.005
+1.000
+
+[profilepnt]
+0.130
+0.105
+0.995
+1.000

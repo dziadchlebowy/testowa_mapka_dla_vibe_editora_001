@@ -1,0 +1,53 @@
+File created with StreetCreator v1.000
+Original from "ADDON SimpleStreets"
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+0.000
+3.600
+0.100
+0.100
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+bruk.jpg
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+[profile]
+0
+
+[profilepnt]
+0.000
+0.100
+0.005
+0.167
+
+[profilepnt]
+1.800
+0.100
+0.350
+0.167
+
+[profile]
+0
+
+[profilepnt]
+1.800
+0.100
+0.650
+0.167
+
+[profilepnt]
+3.600
+0.100
+0.995
+0.167

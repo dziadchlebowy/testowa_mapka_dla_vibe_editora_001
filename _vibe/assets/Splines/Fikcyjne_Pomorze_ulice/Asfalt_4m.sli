@@ -1,0 +1,39 @@
+File created with StreetCreator v1.000
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-2.000
+2.000
+0.100
+0.100
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+str_asphdrk.bmp
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+Asfalt 4 m:
+
+[profile]
+0
+
+[profilepnt]
+-2.000
+0.100
+0.995
+0.167
+
+[profilepnt]
+2.000
+0.100
+0.005
+0.167

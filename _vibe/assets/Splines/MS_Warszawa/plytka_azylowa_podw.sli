@@ -1,0 +1,57 @@
+File created with StreetCreator v1.000
+
+---------------------------
+      Height Profiles
+---------------------------
+
+[heightprofile]
+-0.400
+0.400
+0.250
+0.250
+
+---------------------------
+         Textures
+---------------------------
+
+[texture]
+plytka_azyl.dds
+
+---------------------------
+     Graphical Lanes
+---------------------------
+
+Plytka azylowa podwojna 1:
+
+[profile]
+0
+
+[profilepnt]
+-0.400
+0.250
+0.000
+2.550
+
+[profilepnt]
+0.000
+0.250
+1.000
+2.550
+
+
+Plytka azylowa podwojna 2:
+
+[profile]
+0
+
+[profilepnt]
+0.000
+0.250
+0.000
+2.550
+
+[profilepnt]
+0.400
+0.250
+1.000
+2.550
