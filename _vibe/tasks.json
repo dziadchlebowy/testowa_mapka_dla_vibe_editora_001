@@ -57,8 +57,9 @@
       "y": -29.87
     },
     "attachment": null,
-    "checked": true,
-    "status": "active",
-    "createdAt": 1793314136717
+    "checked": false,
+    "status": "archived",
+    "createdAt": 1793314136717,
+    "archivedAt": 1793314218935
   }
 ]
